@@ -1,3 +1,4 @@
+港台新闻,#genre#
 有线新闻,tvbus://1rnhk2AEsGNXLsv7avw1SDYQPu9KtLNx8azfAHzLnb6S6FcwP7
 有线18,tvbus://1YS9FSxS6A4XcMbsX7tmqJihUY3Mk6UKsCXux6qpL5BERg8Qjy
 无线新闻,tvbus://1oYf8WfnBZ6m1Aj8fomLxGHYKNRRYF4HKa2i8ZCMyfg5UAAzf7
