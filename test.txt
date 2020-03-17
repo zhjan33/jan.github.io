@@ -1,6 +1,3 @@
 港台新闻,#genre#
-有线新闻,tvbus://1rnhk2AEsGNXLsv7avw1SDYQPu9KtLNx8azfAHzLnb6S6FcwP7
-有线18,tvbus://1YS9FSxS6A4XcMbsX7tmqJihUY3Mk6UKsCXux6qpL5BERg8Qjy
-无线新闻,tvbus://1oYf8WfnBZ6m1Aj8fomLxGHYKNRRYF4HKa2i8ZCMyfg5UAAzf7
-明珠台,tvbus://12RnHPgXZCsDfE8j2E2uJbagww4e3P8CZZ5WGySe8rRBz7bGoc5
-翡翠台,tvbus://15kt11HTmNiHYbDF3VeSxDgtn4BCgLVeFBCPhzazURaMES8YWX
+TVB 新闻台,mitv://sdgdklwos.finetv.tv:9906/5a562bec0007bfd761a2998e00b83dd5#mitv://sdgdklwos.finetv.tv:9906/5ad32bdc000b780449ee52022e841cf7
+HKC 有线新闻,P2p://3114910866:9906/5cb05bfa0004baf417a82ed0351d3696.ts#P2p://185.169.196.146:9906/5cb05bfa0004baf417a82ed0351d3696.ts
