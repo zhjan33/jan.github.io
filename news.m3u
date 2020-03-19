@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="港澳台",﻿无线新闻
-http://pull.scphsd.com/live/327e1d31c96eefc9b30a1ed8b25f70e4.flv
+http://pull.scphsd.com/live/36e91d4e5dea2bb4c70ea6e9dca123f6.flv
 #EXTINF:-1 tvg-id="7122" tvg-name="有线新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png" group-title="港澳台",有线新闻
-http://pull.scphsd.com/live/d1781537b57ab2c3d5469d229c564496.flv
+http://pull.scphsd.com/live/d1d3cb414a5d7e85be1b5552788ce6d0.flv
 #EXTINF:-1 tvg-id="7122" tvg-name="有线新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png" group-title="港澳台",有线新闻
 https://icable.cdn.utvhk.com/live/4cc64fb362004798b222978935590b2c/1980ba5c365e4f049f99aced1277303c-3.m3u8
 #EXTINF:-1 tvg-id="7122" tvg-name="有线新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png" group-title="港澳台",有线新闻
