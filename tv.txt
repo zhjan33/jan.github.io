@@ -7,30 +7,6 @@ TVB 明珠台（备用）,http://116.199.5.51:8114/00000000/hls/index.m3u8?Fsv_c
 有线新闻台,P2p://sdgdklwos.finetv.tv:9906/5a3251a3000ddd81d594cba410f708d7#P2p://sdgdklwos.finetv.tv:9906/5a3251a3000ddd81d594cba410f708d7#p2p://lino.homeunix.com:6007/5a3251a3000ddd81d594cba410f708d7.ts
 凤凰中文,http://125.210.152.18:9090/live/FHZW_1200.m3u8#http://liveali.ifeng.com/live/FHZW.m3u8
 鳳凰資訊,http://117.169.120.138:8080/live/fhzixun/.m3u8#http://live.centerch.com/fhzx.m3u8#http://183.207.249.35/PLTV/3/224/3221226923/index.m3u8
-翡翠臺,tvbus://3cQ49Q394wz82zQPDgApQRrFPv57HJ4rmSsBWVGd34ZdiRDqkk
-明珠臺,p8p://0198.02686.cc:16871/5d1a69de0005348e11be81a666c79a56.ts
-無線財經,p8p://0198.02686.cc:16871/5d6000ef00075fa1eddd111e1452c6bc.ts
-TVBJ2,p8p://0198.02686.cc:16871/5d1a6990000c457811bd52c53e48f6b9.ts
-VIUTV,tvbus://3NQgHKwgbbKdJ4LhEnt2KuvtxU7zbshzQL3UrV2k3oz5XYNVyS
-有線體育,tvbus://4i5jLEWEzxnQbezFuJRwgJTuVnRnAniDYC7WxeJLdskPhCTYvE
-有線18臺,tvbus://4JxHjvQYy8ejrj2dJYMurugKF1VV418b4k5yrSB2C4JNdVVMv1
-有線財經,tvbus://3WLtb7Fwsr5CRigDf6uK3mX83q3QXFXh6pBXum8Ebq58u1327W
-有線娛樂,tvbus://3CrMPFZqaFxTGeDtQX2E5gkF6ZdVKk2bj72ff3RTSwJdYWwhg6
-有線電影,tvbus://4f5jNLdAYjb6hn5rU9HCA8atb5cJwx9PK41ZDunEG66ymTVyXE
-有線劇集,tvbus://3Rbj86H1Lktcv6Hg1etW9KgsC5hwb4142EQu8qznRXqwK72sET
-有線新聞,p8p://0198.02686.cc:16871/5e021549000d8ec4e44477e9f2ec6aad.ts
-FOOD美食,tvbus://3kdNHNLMdPo9No1qMRc2sBwBrU7rwQf4iaXxETo3ZF67b3kjbu
-亞洲美食頻道,tvbus://34wDUPKvLphNqSJ8411f9a3sWDXAGCDjd4TFBQuTQrv3SGHSHk
-Discovery科學頻道,tvbus://3er2dXyjCT9n5ZB3MdAyWPT5q6WrYKNK7DB2sgfDmvoakg3vML
-探索_Discovery_Asia,tvbus://45L4g5d5mnwHxWwEwfqV6midoGg2PYEDsNLV5WRyynSs1s9Q7w
-DMAX,tvbus://3ugfiv62Tuz8oQKTEjaTdpSwHuFegNhYXzGM3MxKNwkmaHi66a
-H2,tvbus://3uuJKj6bbzUHtwesEFvXPxN9BcUEUWhQ8WfRrxXXb3RQp7Us9j
-國家地理高畫質野生頻道,tvbus://36Fg7bSpGV24d6cDRfvu8fybf8SVFZCSya3ikQ8SnCvc2qxpBK
-國家地理高畫質悠人頻道,tvbus://4akBFefbKyf45ELCVGn61ycqZw8Q9noYBGQqsQNCCuw1gaiJVu
-亞洲美食頻道,tvbus://34wDUPKvLphNqSJ8411f9a3sWDXAGCDjd4TFBQuTQrv3SGHSHk
-BBC_Lifestyle_Channel,tvbus://3srSDfzwBRja3fCBKByF9EYzMGT5zaQWhzXkjktUXNZgT4d36x
-亞洲旅遊臺,tvbus://3zfELchgV9vAJozdTxzTzYy9aiRsNqp9vwsMHzZD3WpvqdE838
-旅遊頻道,tvbus://3TZnppz2LvqEML4kxQGYyiYBmkToJAzKRGiRYBpEbCh1jzHUzL
 央视频道,#genre#
 CCTV-1 综合 FHD,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000210103.m3u8
 CCTV-2 财经 FHD,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000203603.m3u8
