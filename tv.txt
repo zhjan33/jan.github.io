@@ -1,10 +1,6 @@
 港台新闻,#genre#
 无线新闻,http://pull.scphsd.com/live/30c98008481882766df6964fdb566b26.flv#mitv://sdgdklwos.finetv.tv:9906/5ad32bdc000b780449ee52022e841cf7
 有线新闻,http://pull.scphsd.com/live/d1d3cb414a5d7e85be1b5552788ce6d0.flv#https://ottproxy2.mott.tv/livehls/MOB-SCC/02.m3u8
-无线新闻,https://tv.elibei.com/tv/play?token=c53c2425123852327994cc6b8b57e2e2&k=7449867010c26a0b26566c330d124e1e&cid=196&uid=36808
-翡翠台,https://tv.elibei.com/tv/play?token=499b831fdfbdb8bc62b5a3b23ee3b27a&k=7449867010c26a0b26566c330d124e1e&cid=183&uid=36808
-TVB J2,https://tv.elibei.com/tv/play?token=489c8d68b159f764ef9b6f1ce13638df&k=7449867010c26a0b26566c330d124e1e&cid=178&uid=36808
-TVB明珠台,https://tv.elibei.com/tv/play?token=f7d2c7dd769c478bfe767c01d4026db7&k=7449867010c26a0b26566c330d124e1e&cid=184&uid=36808
 翡翠台（备用）,http://116.199.5.51:8114/00000000/hls/index.m3u8?Fsv_chan_hls_se_idx=188&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 TVB 明珠台（备用）,http://116.199.5.51:8114/00000000/hls/index.m3u8?Fsv_chan_hls_se_idx=12&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 无线新闻台,http://hls.globaliptv.ml/tvbnews.php#P2p://sdgdklwos.finetv.tv:9906/5a562bec0007bfd761a2998e00b83dd5#P2p://sdgdklwos.finetv.tv:9906/5ad32bdc000b780449ee52022e841cf7#p2p://lino.homeunix.com:6007/5a562bec0007bfd761a2998e00b83dd5.ts
