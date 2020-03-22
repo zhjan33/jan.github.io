@@ -1,6 +1,6 @@
 港台新闻,#genre#
-无线新闻,http://pull.scphsd.com/live/30c98008481882766df6964fdb566b26.flv#mitv://sdgdklwos.finetv.tv:9906/5ad32bdc000b780449ee52022e841cf7#http://www.liveviptv.xyz/tv/tvb.php?vid=wxxw
-有线新闻,http://pull.scphsd.com/live/d1d3cb414a5d7e85be1b5552788ce6d0.flv#https://ottproxy2.mott.tv/livehls/MOB-SCC/02.m3u8
+无线新闻,http://pull.scphsd.com/live/a88626cbc5a45438dca45acb7e620424.flv#mitv://sdgdklwos.finetv.tv:9906/5ad32bdc000b780449ee52022e841cf7#http://www.liveviptv.xyz/tv/tvb.php?vid=wxxw
+有线新闻,http://pull.scphsd.com/live/55726245cf5c2e641b293282d8c555da.flv#https://ottproxy2.mott.tv/livehls/MOB-SCC/02.m3u8
 翡翠台（备用）,http://116.199.5.51:8114/00000000/hls/index.m3u8?Fsv_chan_hls_se_idx=188&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 TVB 明珠台（备用）,http://116.199.5.51:8114/00000000/hls/index.m3u8?Fsv_chan_hls_se_idx=12&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 无线新闻台,http://hls.globaliptv.ml/tvbnews.php#P2p://sdgdklwos.finetv.tv:9906/5a562bec0007bfd761a2998e00b83dd5#P2p://sdgdklwos.finetv.tv:9906/5ad32bdc000b780449ee52022e841cf7#p2p://lino.homeunix.com:6007/5a562bec0007bfd761a2998e00b83dd5.ts
