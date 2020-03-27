@@ -1,9 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="港澳台",﻿无线新闻
-http://pull.scphsd.com/live/a88626cbc5a45438dca45acb7e620424.flv
+http://pull.scphsd.com/live/3cfb1c7715458b3bd3e3d726febb4236.flv
 #EXTINF:-1 tvg-id="7122" tvg-name="有线新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png" group-title="港澳台",有线新闻
-http://pull.scphsd.com/live/55726245cf5c2e641b293282d8c555da.flv
-#EXTINF:-1 tvg-id="7122" tvg-name="有线新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png" group-title="港澳台",有线新闻
-https://icable.cdn.utvhk.com/live/4cc64fb362004798b222978935590b2c/1980ba5c365e4f049f99aced1277303c-3.m3u8
-#EXTINF:-1 tvg-id="7122" tvg-name="有线新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png" group-title="港澳台",有线新闻
-https://ottproxy2.mott.tv/livehls/MOB-SCC/02.m3u8
+http://pull.scphsd.com/live/df4a965672d48edc80d6cacfb094c6c4/playlist.m3u8?wsSession=cdf5c507115e3a702c2453cd-158527887725261&wsIPSercert=216e662d42509fc635329d55cb223257&wsMonitor=0
