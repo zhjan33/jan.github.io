@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="港澳台",﻿无线新闻
-http://pull.scphsd.com/live/14a17c9c5daf297cdcdc47d4c4d4a46c.flv
+https://ter.live2.ksmobile.net/yolo/9369d60e726f1ef480a5a46df51c3767/playlist.m3u8
 #EXTINF:-1 tvg-id="7122" tvg-name="有线新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png" group-title="港澳台",有线新闻
-http://pull.scphsd.com/live/17504e8763371ab0b80c1501df0ee09b.flv
+https://ter.live2.ksmobile.net/yolo/672d48edc80d6cacfb09d4c6c4f4a965/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",珠海生活
 http://dslive.grtn.cn/zhzh/sd/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",广东综艺
