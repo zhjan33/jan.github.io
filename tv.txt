@@ -1,6 +1,6 @@
 港台新闻,#genre#
-无线新闻,http://pull.scphsd.com/live/9eb5c37bf5b8731bf80195b0b2b90a89.flv#http://www.liveviptv.xyz/tv/tvb.php?vid=wxxw#p2p://lino.homeunix.com:6007/5a562bec0007bfd761a2998e00b83dd5.ts
-有线新闻,http://pull.scphsd.com/live/5f01016b9578e09e3119e574f935ea00.flv#https://ottproxy2.mott.tv/livehls/MOB-SCC/02.m3u8#https://icable.cdn.utvhk.com/live/4cc64fb362004798b222978935590b2c/1980ba5c365e4f049f99aced1277303c.m3u8
+无线新闻,http://www.liveviptv.xyz/tv/tvb.php?vid=wxxw#p2p://lino.homeunix.com:6007/5a562bec0007bfd761a2998e00b83dd5.ts
+有线新闻,https://ottproxy2.mott.tv/livehls/MOB-SCC/02.m3u8
 无线新闻（软解）,http://47.56.167.95/iptv222.php?id=9
 无线财经,http://47.56.167.95/iptv222.php?id=10
 翡翠台,http://47.56.167.95/iptv222.php?id=1
