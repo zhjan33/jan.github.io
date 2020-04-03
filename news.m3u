@@ -1,10 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="港澳台",﻿无线新闻
-http://pulljd-live.baijiayun.com/live/7679369d60e726f1ef480a5a46df51c3.m3u8
+http://wshls.buka.tv/live/6dd60a5a510e726f1ef4f8c37679369/playlist.m3u8
 #EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="港澳台",﻿无线新闻1
 http://www.liveviptv.xyz/tv/tvb.php?vid=wxxw
 #EXTINF:-1 tvg-id="7122" tvg-name="有线新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png" group-title="港澳台",有线新闻
-http://106.122.253.127/hdl0901.plures.net/onlive/26ddcc533c4ec91b5a73f1fc46ad00b3.flv?wshc_tag=0&wsts_tag=5e869c8d&wsid_tag=e7bef31&wsiphost=ipdbm
+http://113.96.140.38/hdl0901.plures.net/onlive/89b247ea8bd2d4f4c50f6d716853e552.flv?wshc_tag=0&wsts_tag=5e87094c&wsid_tag=e7bef31&wsiphost=ipdbm
 #EXTINF:-1 tvg-id="7122" tvg-name="有线新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png" group-title="港澳台",有线新闻1
 https://ottproxy2.mott.tv/livehls/MOB-SCC/02.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",珠海生活
