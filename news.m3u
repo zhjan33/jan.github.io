@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="港澳台",﻿无线新闻
 http://www.liveviptv.xyz/tv/tvb.php?vid=wxxw
+#EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="港澳台",﻿无线新闻
+http://125.73.209.94/hdl0901.plures.net/onlive/9c0615dfb9648c61877d0cc561abb566.flv?wshc_tag=0&wsts_tag=5e8f3f3b&wsid_tag=e7bef7a&wsiphost=ipdbm
 #EXTINF:-1 tvg-id="7122" tvg-name="有线新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png" group-title="港澳台",有线新闻
 http://183.56.169.67/hdl0901.plures.net/onlive/f56e9460acf0a4b379b94fa1a141bb2b.flv?wshc_tag=0&wsts_tag=5e8e6987&wsid_tag=e7bef7a&wsiphost=ipdbm
 #EXTINF:-1 tvg-id="7122" tvg-name="有线新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png" group-title="港澳台",有线新闻
