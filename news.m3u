@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="港澳台",﻿无线新闻
 http://www.liveviptv.xyz/tv/tvb.php?vid=wxxw
+#EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="港澳台",﻿无线新闻
+http://wsrtmp.xdysoft.com/live/d668e6e32a52c813bf809b19b4c30d18.flv
 #EXTINF:-1 tvg-id="7122" tvg-name="有线新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png" group-title="港澳台",有线新闻
 https://ottproxy2.mott.tv/livehls/MOB-SCC/02.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",珠海生活
