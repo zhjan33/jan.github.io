@@ -1,16 +1,11 @@
 港台新闻,#genre#
 无线新闻,http://www.liveviptv.xyz/tv/tvb.php?vid=wxxw#p2p://lino.homeunix.com:6007/5a562bec0007bfd761a2998e00b83dd5.ts
 有线新闻,https://ottproxy2.mott.tv/livehls/MOB-SCC/02.m3u8
-无线新闻（软解）,http://47.56.167.95/iptv222.php?id=9
-无线财经,http://47.56.167.95/iptv222.php?id=10
-翡翠台,http://47.56.167.95/iptv222.php?id=1
-TVB J2,http://47.56.167.95/iptv222.php?id=12
-Viu TV,http://47.56.167.95/iptv222.php?id=8
-有线新闻台,http://47.56.167.95/iptv222.php?id=31
-翡翠台（备用）,http://116.199.5.51:8114/00000000/hls/index.m3u8?Fsv_chan_hls_se_idx=188&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
-TVB 明珠台（备用）,http://116.199.5.51:8114/00000000/hls/index.m3u8?Fsv_chan_hls_se_idx=12&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
-凤凰中文,http://125.210.152.18:9090/live/FHZW_1200.m3u8#http://liveali.ifeng.com/live/FHZW.m3u8
-鳳凰資訊,http://117.169.120.138:8080/live/fhzixun/.m3u8#http://live.centerch.com/fhzx.m3u8#http://183.207.249.35/PLTV/3/224/3221226923/index.m3u8
+now直播,tvbus://3JGDpXioJpH6NRBQFeUgju8mCcYQUHiFYz6GRBkkSWnbGPRABS
+now新闻,tvbus://3iBaeeta2PhkXUTh6G9jzKNjGn98D72gUnhB8QxsqnPr9JgXuB
+香港開電視,tvbus://4tEWVwazfYxEPmrqU5Xhr9GNDF7a9LR3JXhDKX2MFWRwoJYTDN
+有線新聞,p8p://0198.02686.cc:16871/5e021549000d8ec4e44477e9f2ec6aad.ts
+有線財經,tvbus://3WLtb7Fwsr5CRigDf6uK3mX83q3QXFXh6pBXum8Ebq58u1327W
 央视频道,#genre#
 CCTV-1 综合 FHD,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000210103.m3u8
 CCTV-2 财经 FHD,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000203603.m3u8
