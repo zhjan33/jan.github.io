@@ -118,5 +118,4 @@ CHC家庭电影,http://125.210.152.18:9090/live/JTYYHD.m3u8
 沈腾,http://aldirect.rtmp.huya.com/huyalive/29141112-2689675756-11552069408864075776-3048959626-10057-A-0-1.m3u8
 徐峥,http://aldirect.rtmp.huya.com/huyalive/30765679-2689675828-11552069718101721088-3048991626-10057-A-0-1_1200.m3u8
 测试2_333,#genre#
-Fast Boyz Gay Men.m3u8,http://pdsrv.io:80/live/gabriel/123456/26563.m3u8
-Libido TV HD.m3u8,http://pdsrv.io:80/live/gabriel/123456/26565.m3u8
+c2ppv-1306412,https://download2.6pan.cn/oriStore/lhpV9v7Ntrmw7nRqvp3Hr4dDP7Hu/wcs/user/23423/s/2444344188/file/%5BThZu.Cc%5Dfc2ppv_1306412.mp4?userId=23423&wsSecret=5c791a26ece264d17402408120fbe212&wsTime=5e9a68bb
