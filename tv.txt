@@ -42,9 +42,6 @@ CCTV-14 少儿 FHD,http://101.71.255.229:6610/zjhs/2/10087/index.m3u8?virtualDom
 CCTV-15 音乐 FHD,http://101.71.255.229:6610/zjhs/2/10088/index.m3u8?virtualDomain=zjhs.live_hls.zte.com#http://140.249.30.111/tlivecloud-cdn.ysp.cctv.cn/001/2000205003.m3u8#http://cdn-in.iqy.sc96655.com/tslive/c211_scc_20190617_t0x01q5a_original_r10/cctv15_4000.m3u8#http://140.249.30.36/tlivecloud-cdn.ysp.cctv.cn/001/2000205003.m3u8
 CCTV-17 农村农业 FHD,http://140.249.30.111/tlivecloud-cdn.ysp.cctv.cn/001/2000204203.m3u8#http://stream.cdjsxy.cn/lypd/sd/live.m3u8#http://140.249.30.41/tlivecloud-cdn.ysp.cctv.cn/001/2000204203.m3u8#http://cdn-in.iqy.sc96655.com/tslive/c211_scc_20190617_t0x01q5a_original_r10/cctv17_4000.m3u8
 卫视频道,#genre#
-CHC家庭影院,http://cdn-in.iqy.sc96655.com/tslive/c211_scc_20190617_t0x01q5a_original_r10/chcjtyy_4000.m3u8&#http://47.240.60.73/migu.php?id=644368370
-CHC高清电影,http://cdn-in.iqy.sc96655.com/tslive/c211_scc_20190617_t0x01q5a_original_r10/chchd_4000.m3u8&#http://192.200.120.82:8080/ZZ_chcgaoqing/ZZ_chcgaoqing.m3u8
-CHC动作影院,http://cdn-in.iqy.sc96655.com/tslive/c211_scc_20190617_t0x01q5a_original_r10/chcdzdy_4000.m3u8&#http://47.240.60.73/migu.php?id=644368610#http://192.200.120.82:8080/ZZ_chZZongzuo/ZZ_chZZongzuo.m3u8#http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225927/index.m3u8
 安徽卫视高清,http://118.123.60.12:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=008&Provider_id=&Pcontent_id=index.m3u8
 重庆卫视高清,http://118.123.60.12:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=012&Provider_id=&Pcontent_id=index.m3u8
 江苏卫视高清,http://118.123.60.6:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=001&Provider_id=&Pcontent_id=index.m3u8
