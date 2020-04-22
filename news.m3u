@@ -9,6 +9,8 @@ http://yeyuaihao.gz01.bdysite.com/dl/tvb.php?id=j5_ch85
 http://hdl0901.plures.net/onlive/123456789news.flv
 #EXTINF:-1 tvg-id="7122" tvg-name="有线新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png" group-title="港澳台",有线新闻
 https://ottproxy2.mott.tv/livehls/MOB-SCC/02.m3u8
+#EXTINF:-1 tvg-id="hkk" tvg-logo="http://tv.sason.xyz/logo/hkk.png" group-title="港澳台",开电视
+http://media.fantv.hk/m3u8/archive/channel2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",珠海生活
 http://dslive.grtn.cn/zhzh/sd/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",广东综艺
