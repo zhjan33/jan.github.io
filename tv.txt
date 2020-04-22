@@ -1,5 +1,5 @@
 港台新闻,#genre#
-无线新闻,http://www.liveviptv.xyz/tv/tvb.php?vid=wxxw#p2p://lino.homeunix.com:6007/5a562bec0007bfd761a2998e00b83dd5.ts
+无线新闻,http://yeyuaihao.gz01.bdysite.com/dl/tvb.php?id=inews#http://www.liveviptv.xyz/tv/tvb.php?vid=wxxw#p2p://lino.homeunix.com:6007/5a562bec0007bfd761a2998e00b83dd5.ts
 有线新闻,http://hdl0901.plures.net/onlive/123456789news.flv#https://ottproxy2.mott.tv/livehls/MOB-SCC/02.m3u8#https://ottproxy2.mott.tv/livehls/MOB-SCC/03.m3u8
 TVB翡翠台,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv&_res_tag_=video
 香港開電視,tvbus://4tEWVwazfYxEPmrqU5Xhr9GNDF7a9LR3JXhDKX2MFWRwoJYTDN
