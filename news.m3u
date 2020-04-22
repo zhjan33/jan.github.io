@@ -11,6 +11,16 @@ http://hdl0901.plures.net/onlive/123456789news.flv
 https://ottproxy2.mott.tv/livehls/MOB-SCC/02.m3u8
 #EXTINF:-1 tvg-id="hkk" tvg-logo="http://tv.sason.xyz/logo/hkk.png" group-title="港澳台",开电视
 http://media.fantv.hk/m3u8/archive/channel2.m3u8
+#EXTINF:-1 tvg-id="slxw" tvg-logo="http://tv.sason.xyz/logo/slxw.png" group-title="港澳台",三立iNews FHD ★
+http://seb.sason.top/sc/slinews_fhd.m3u8
+#EXTINF:-1 tvg-id="tvbsxw" tvg-logo="http://tv.sason.xyz/logo/tvbsxw.png" group-title="港澳台",TVBS新闻 FHD ★
+http://seb.sason.top/sc/tvbsxw_fhd.m3u8
+#EXTINF:-1 tvg-id="dsxw" tvg-logo="http://tv.sason.xyz/logo/dsxw.png" group-title="港澳台",东森新闻 FHD ★
+http://seb.sason.top/sc/dsxw_fhd.m3u8
+#EXTINF:-1 tvg-id="hsxw" tvg-logo="http://tv.sason.xyz/logo/hsxw.png" group-title="港澳台",华视新闻 FHD ★
+http://seb.sason.top/sc/hsxw_fhd.m3u8
+#EXTINF:-1 tvg-id="msxw" tvg-logo="http://tv.sason.xyz/logo/msxw.png" group-title="港澳台",民视新闻 FHD ★
+http://seb.sason.top/sc/msxw_fhd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",珠海生活
 http://dslive.grtn.cn/zhzh/sd/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",广东综艺
