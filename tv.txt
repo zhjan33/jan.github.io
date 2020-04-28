@@ -3,7 +3,6 @@
 有线新闻,https://icable.cdn.utvhk.com/live/4cc64fb362004798b222978935590b2c/1980ba5c365e4f049f99aced1277303c-3.m3u8#https://ottproxy2.mott.tv/livehls/MOB-SCC/02.m3u8#https://ottproxy2.mott.tv/livehls/MOB-SCC/03.m3u8
 TVB 财经新闻,http://yeyuaihao.gz01.bdysite.com/dl/tvb.php?id=j5_ch85
 TVB翡翠台,http://pl0.live.huajiao.com/live_huajiao_v2/jade-mai-he-zi.flv#http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv&_res_tag_=video
-J2,https://pl0-hls.live.huajiao.com/live_huajiao_v2/3c737b5e1efb1d023101be3fa83dfedf/playlist.m3u8
 香港開電視,tvbus://4tEWVwazfYxEPmrqU5Xhr9GNDF7a9LR3JXhDKX2MFWRwoJYTDN
 有線新聞,p8p://0198.02686.cc:16871/5e021549000d8ec4e44477e9f2ec6aad.ts
 有線財經,tvbus://3WLtb7Fwsr5CRigDf6uK3mX83q3QXFXh6pBXum8Ebq58u1327W
