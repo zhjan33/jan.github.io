@@ -1,8 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="港澳台",﻿无线新闻
+#EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="港澳台",无线新闻
 https://www.ootori.xyz/tv/tvb.php?id=inews
-#EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="港澳台",﻿无线新闻
+#EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="港澳台",无线新闻
 http://www.liveviptv.xyz/tv/tvb.php?vid=wxxw
+#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",翡翠台
+http://pl0.live.huajiao.com/live_huajiao_v2/jade-mai-he-zi.flv
 #EXTINF:-1 tvg-id="wxcjxw" tvg-logo="http://tv.sason.xyz/logo/wxcjxw.png" group-title="港澳台",TVB 财经新闻
 https://www.ootori.xyz/tv/tvb.php?id=j5_ch85
 #EXTINF:-1 tvg-id="7122" tvg-name="有线新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png" group-title="港澳台",有线新闻
@@ -11,16 +13,6 @@ https://icable.cdn.utvhk.com/live/4cc64fb362004798b222978935590b2c/1980ba5c365e4
 https://ottproxy2.mott.tv/livehls/MOB-SCC/02.m3u8
 #EXTINF:-1 tvg-id="hkk" tvg-logo="http://tv.sason.xyz/logo/hkk.png" group-title="港澳台",开电视
 http://media.fantv.hk/m3u8/archive/channel2.m3u8
-#EXTINF:-1 tvg-id="slxw" tvg-logo="http://tv.sason.xyz/logo/slxw.png" group-title="港澳台",三立iNews FHD ★
-http://seb.sason.top/sc/slinews_fhd.m3u8
-#EXTINF:-1 tvg-id="tvbsxw" tvg-logo="http://tv.sason.xyz/logo/tvbsxw.png" group-title="港澳台",TVBS新闻 FHD ★
-http://seb.sason.top/sc/tvbsxw_fhd.m3u8
-#EXTINF:-1 tvg-id="dsxw" tvg-logo="http://tv.sason.xyz/logo/dsxw.png" group-title="港澳台",东森新闻 FHD ★
-http://seb.sason.top/sc/dsxw_fhd.m3u8
-#EXTINF:-1 tvg-id="hsxw" tvg-logo="http://tv.sason.xyz/logo/hsxw.png" group-title="港澳台",华视新闻 FHD ★
-http://seb.sason.top/sc/hsxw_fhd.m3u8
-#EXTINF:-1 tvg-id="msxw" tvg-logo="http://tv.sason.xyz/logo/msxw.png" group-title="港澳台",民视新闻 FHD ★
-http://seb.sason.top/sc/msxw_fhd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",珠海生活
 http://dslive.grtn.cn/zhzh/sd/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",广东综艺
