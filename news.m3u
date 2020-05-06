@@ -1,7 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="港澳台",无线新闻
-http://pl0.live.huajiao.com/live_huajiao_v2/inews-mai-he-zi.flv
-#EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="港澳台",无线新闻
 https://www.ootori.xyz/tv/tvb.php?id=inews
 #EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="港澳台",无线新闻
 http://www.liveviptv.xyz/tv/tvb.php?vid=wxxw
