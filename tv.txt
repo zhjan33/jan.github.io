@@ -89,7 +89,40 @@ TVS1 经济科教,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&
 TVS2 南方卫视,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=9&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 TVS5 广东少儿,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=231&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 纳加测试,#genre#
-
+2-翡翠,p2p://fccseuro.pvbox.live:18912/5b1409fc00088a7f9382eac80b8109d9.ts
+1-翡翠,p2p://fccseuro.pvbox.live:18912/5d1220350000ba2724a028c23cd1f63f.ts
+2-无线新闻,p2p://fccseuro.pvbox.live:18912/5b140953000cd4a817961c7ae76199ad.ts
+1-无线新闻,p2p://fccseuro.pvbox.live:18912/5b1409fc000a355e25bb8c90ac1c395b.ts
+2-J2,p2p://fccseuro.pvbox.live:18912/5d122036000a06610e911ae85b70a0fb.ts
+1-J2,p2p://fccseuro.pvbox.live:18912/5b1409fc000dca06858e1fae1a06cb56.ts
+J5,p2p://fccseuro.pvbox.live:18912/5b14095400047cf54f773f405bd4ccb2.ts
+明珠,p2p://fccseuro.pvbox.live:18912/5b1409540009bb8b1418429969d6cbd7.ts
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8.ts
+无线财经,p2p://fccseuro.pvbox.live:18912/5dbeb1cc0007501633bb7bbe835141e5.ts
+HKC新闻,p2p://fccseuro.pvbox.live:18912/5b13f6f100047cde0d55a9a7e9706670.ts
+HKC电影一台,p2p://fccseuro.pvbox.live:18912/5b140a1600025764ce93bcc8429b0d73.ts
+私人影院,p2p://fccseuro.pvbox.live:18912/5b140a98000c5ae6b8efc09aa4f8f3c0.ts
+TVB星河,p2p://fccseuro.pvbox.live:18912/5d65048c0003e9aed78b2a8c508cf169.ts
+VIUTV6,p2p://fccseuro.pvbox.live:18912/5b1409fd000796832c596cce2bc28153.ts
+VIU,p2p://fccseuro.pvbox.live:18912/5b14095400066519f4a0f9004b5ad80f.ts
+星空卫视,p2p://fccseuro.pvbox.live:18912/5b1409fb0000e98505b131fd50723a0d.ts
+凤凰中文台 HD,p2p://fccseuro.pvbox.live:18912/5b14092b0007595608613b9a9d4271ee.ts
+凤凰资讯台 HD,p2p://fccseuro.pvbox.live:18912/5b14092b00090483fc33bfed50c9fdf4.ts
+凤凰香港台 HD,p2p://fccseuro.pvbox.live:18912/5b14092b000ab058ec090708a77a667f.ts
+海峡卫视,p2p://fccseuro.pvbox.live:18912/5b140a99000c97f5b5e3bc7b87885033.ts
+莲花卫视,p2p://fccseuro.pvbox.live:18912/5b1409fb00088a467b6f8bca98ca6a90.ts
+WBTV,p2p://fccseuro.pvbox.live:18912/5b140a1600043fc9cda3d7ff5e6fccd3.ts
+CHINA MOVIE,p2p://fccseuro.pvbox.live:18912/5b14095e00097ea89084c60be5182551.ts
+中华美食频道,p2p://fccseuro.pvbox.live:18912/5b14092b000126611fe6117c72a20a38.ts
+NOW 新闻,p2p://fccseuro.pvbox.live:18912/5b20e3ae00008df9e0a235f3dbd73ea4.ts
+NOW SPORTS1,p2p://fccseuro.pvbox.live:18912/5e7c6d93000c7d7471586222fef09685.ts
+RTHK31,p2p://fccseuro.pvbox.live:18912/5badd38d000891c411774a31f85ea59f.ts
+RTHK32,p2p://fccseuro.pvbox.live:18912/5badd3910003a73dbb871ef20d4d6b9c.ts
+TVB US 1,p2p://fccseuro.pvbox.live:18912/5cffd79b000822469dda419c634e075e.ts
+BEIN SPORTS,p2p://fccseuro.pvbox.live:18912/5cf559ed000079fb14445601b36944ee.ts
+WWE,p2p://fccseuro.pvbox.live:18912/5cffd5d9000724964caf741711821486.ts
+TVB US 2,p2p://fccseuro.pvbox.live:18912/5cffd79d0004cbb6bd1be5c9b948f3a1.ts
+TVBHD,p2p://fccseuro.pvbox.live:18912/5cf559f800003d1bcd0ecfe448d6b4fe.ts
 数字电视1,#genre#
 CHC高清电影,http://ivi.bupt.edu.cn/hls/chchd.m3u8
 CHC动作电影,http://125.210.152.18:9090/live/DZDYHD.m3u8
