@@ -89,49 +89,146 @@ TVS1 经济科教,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&
 TVS2 南方卫视,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=9&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 TVS5 广东少儿,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=231&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 纳加测试,#genre#
-2-翡翠,p2p://fccseuro.pvbox.live:18912/5b1409fc00088a7f9382eac80b8109d9.ts
-1-翡翠,p2p://fccseuro.pvbox.live:18912/5d1220350000ba2724a028c23cd1f63f.ts
-2-无线新闻,p2p://fccseuro.pvbox.live:18912/5b140953000cd4a817961c7ae76199ad.ts
-1-无线新闻,p2p://fccseuro.pvbox.live:18912/5b1409fc000a355e25bb8c90ac1c395b.ts
-2-J2,p2p://fccseuro.pvbox.live:18912/5d122036000a06610e911ae85b70a0fb.ts
-1-J2,p2p://fccseuro.pvbox.live:18912/5b1409fc000dca06858e1fae1a06cb56.ts
-J5,p2p://fccseuro.pvbox.live:18912/5b14095400047cf54f773f405bd4ccb2.ts
-明珠,p2p://fccseuro.pvbox.live:18912/5b1409540009bb8b1418429969d6cbd7.ts
-香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8.ts
-无线财经,p2p://fccseuro.pvbox.live:18912/5dbeb1cc0007501633bb7bbe835141e5.ts
-HKC新闻,p2p://fccseuro.pvbox.live:18912/5b13f6f100047cde0d55a9a7e9706670.ts
-HKC电影一台,p2p://fccseuro.pvbox.live:18912/5b140a1600025764ce93bcc8429b0d73.ts
-私人影院,p2p://fccseuro.pvbox.live:18912/5b140a98000c5ae6b8efc09aa4f8f3c0.ts
-TVB星河,p2p://fccseuro.pvbox.live:18912/5d65048c0003e9aed78b2a8c508cf169.ts
-VIUTV6,p2p://fccseuro.pvbox.live:18912/5b1409fd000796832c596cce2bc28153.ts
-VIU,p2p://fccseuro.pvbox.live:18912/5b14095400066519f4a0f9004b5ad80f.ts
-星空卫视,p2p://fccseuro.pvbox.live:18912/5b1409fb0000e98505b131fd50723a0d.ts
-凤凰中文台 HD,p2p://fccseuro.pvbox.live:18912/5b14092b0007595608613b9a9d4271ee.ts
-凤凰资讯台 HD,p2p://fccseuro.pvbox.live:18912/5b14092b00090483fc33bfed50c9fdf4.ts
-凤凰香港台 HD,p2p://fccseuro.pvbox.live:18912/5b14092b000ab058ec090708a77a667f.ts
-海峡卫视,p2p://fccseuro.pvbox.live:18912/5b140a99000c97f5b5e3bc7b87885033.ts
-莲花卫视,p2p://fccseuro.pvbox.live:18912/5b1409fb00088a467b6f8bca98ca6a90.ts
-WBTV,p2p://fccseuro.pvbox.live:18912/5b140a1600043fc9cda3d7ff5e6fccd3.ts
-CHINA MOVIE,p2p://fccseuro.pvbox.live:18912/5b14095e00097ea89084c60be5182551.ts
-中华美食频道,p2p://fccseuro.pvbox.live:18912/5b14092b000126611fe6117c72a20a38.ts
-NOW 新闻,p2p://fccseuro.pvbox.live:18912/5b20e3ae00008df9e0a235f3dbd73ea4.ts
-NOW SPORTS1,p2p://fccseuro.pvbox.live:18912/5e7c6d93000c7d7471586222fef09685.ts
-RTHK31,p2p://fccseuro.pvbox.live:18912/5badd38d000891c411774a31f85ea59f.ts
-RTHK32,p2p://fccseuro.pvbox.live:18912/5badd3910003a73dbb871ef20d4d6b9c.ts
-TVB US 1,p2p://fccseuro.pvbox.live:18912/5cffd79b000822469dda419c634e075e.ts
-BEIN SPORTS,p2p://fccseuro.pvbox.live:18912/5cf559ed000079fb14445601b36944ee.ts
-WWE,p2p://fccseuro.pvbox.live:18912/5cffd5d9000724964caf741711821486.ts
-TVB US 2,p2p://fccseuro.pvbox.live:18912/5cffd79d0004cbb6bd1be5c9b948f3a1.ts
-TVBHD,p2p://fccseuro.pvbox.live:18912/5cf559f800003d1bcd0ecfe448d6b4fe.ts
-数字电视1,#genre#
-CHC高清电影,http://ivi.bupt.edu.cn/hls/chchd.m3u8
-CHC动作电影,http://125.210.152.18:9090/live/DZDYHD.m3u8
-CHC家庭电影,http://125.210.152.18:9090/live/JTYYHD.m3u8
-龙华电影,http://ms006.happytv.com.tw/live/pK2PLaAx0O6ouIoL/index.m3u8
-黑莓电影,http://39.135.32.143:6610/000000001000/8785669936177902664/1.m3u8?
-峨眉电影HD,http://scgctvshow.sctv.com/hdlive/emei/1.m3u8
-湖南潇湘电影HD,http://124.232.231.246:6610/000000001001/201600020006/1400.m3u8?zte_auth=ae0fcdac&ztecid=201600020005&version=v1.0&IASHttpSessionId=SLB2046220190906022827233263&AuthInfo=LPjne9%2Bz7%2B%2F905ByFWbN5McknogfJXrVwjUFLaeEL29vpHGrk2l%2FUHYgN1aASj376oO1xLnnHQM%2BvUxQhm38dnHm1eSuY7vi6YzamvW6l8OtgHpq%2BKs%2Bl9QddsFpnz4k&m3u8_level=2&terminal_flag=0&ispcode=8
-
+凤凰卫视中文,http://154.211.14.239/forum/iptv_wintv.php?id=1
+凤凰卫视资讯,http://154.211.14.239/forum/iptv_wintv.php?id=2
+ViuTV,http://154.211.14.239/forum/iptv_wintv.php?id=3
+香港有线新闻台,http://154.211.14.239/forum/iptv_wintv.php?id=4
+香港有线新闻台2,http://154.211.14.239/forum/iptv_wintv.php?id=5
+香港有线高清603台,http://154.211.14.239/forum/iptv_wintv.php?id=6
+TVB无线新闻台,http://154.211.14.239/forum/iptv_wintv.php?id=7
+TVB无线新闻台2,http://154.211.14.239/forum/iptv_wintv.php?id=8
+TVB翡翠台,http://154.211.14.239/forum/iptv_wintv.php?id=9
+TVB翡翠台2,http://154.211.14.239/forum/iptv_wintv.php?id=10
+TVB 明珠台,http://154.211.14.239/forum/iptv_wintv.php?id=11
+TVB J2,http://154.211.14.239/forum/iptv_wintv.php?id=12
+TVB无线财经资讯台,http://154.211.14.239/forum/iptv_wintv.php?id=13
+TVB星河,http://154.211.14.239/forum/iptv_wintv.php?id=14
+NOW新闻台,http://154.211.14.239/forum/iptv_wintv.php?id=15
+港台电视31,http://154.211.14.239/forum/iptv_wintv.php?id=16
+港台电视32,http://154.211.14.239/forum/iptv_wintv.php?id=17
+中天新闻(HD),http://154.211.14.239/forum/iptv_wintv.php?id=19
+东森新闻台,http://154.211.14.239/forum/iptv_wintv.php?id=20
+TVBS新闻台,http://154.211.14.239/forum/iptv_wintv.php?id=21
+寰宇新闻台,http://154.211.14.239/forum/iptv_wintv.php?id=22
+寰宇新闻台2,http://154.211.14.239/forum/iptv_wintv.php?id=23
+中视新闻台,http://154.211.14.239/forum/iptv_wintv.php?id=24
+台视新闻台,http://154.211.14.239/forum/iptv_wintv.php?id=25
+华视新闻台,http://154.211.14.239/forum/iptv_wintv.php?id=26
+民视新闻台,http://154.211.14.239/forum/iptv_wintv.php?id=27
+非凡新闻台,http://154.211.14.239/forum/iptv_wintv.php?id=28
+壹新闻,http://154.211.14.239/forum/iptv_wintv.php?id=29
+年代新闻,http://154.211.14.239/forum/iptv_wintv.php?id=30
+三立新闻台,http://154.211.14.239/forum/iptv_wintv.php?id=31
+三立iNEWS,http://154.211.14.239/forum/iptv_wintv.php?id=32
+中视HD,http://154.211.14.239/forum/iptv_wintv.php?id=34
+台视HD,http://154.211.14.239/forum/iptv_wintv.php?id=35
+民视HD,http://154.211.14.239/forum/iptv_wintv.php?id=36
+华视HD,http://154.211.14.239/forum/iptv_wintv.php?id=37
+公视HD,http://154.211.14.239/forum/iptv_wintv.php?id=38
+三立台湾台(HD),http://154.211.14.239/forum/iptv_wintv.php?id=40
+三立都会台,http://154.211.14.239/forum/iptv_wintv.php?id=41
+三立综合台,http://154.211.14.239/forum/iptv_wintv.php?id=42
+三立戏剧台,http://154.211.14.239/forum/iptv_wintv.php?id=43
+TVBS HD,http://154.211.14.239/forum/iptv_wintv.php?id=45
+TVBS欢乐台(HD),http://154.211.14.239/forum/iptv_wintv.php?id=46
+TVBS精彩(HD),http://154.211.14.239/forum/iptv_wintv.php?id=47
+八大综合台,http://154.211.14.239/forum/iptv_wintv.php?id=49
+八大娱乐台,http://154.211.14.239/forum/iptv_wintv.php?id=50
+八大戏剧台,http://154.211.14.239/forum/iptv_wintv.php?id=51
+八大綜藝台,http://154.211.14.239/forum/iptv_wintv.php?id=52
+中天综合,http://154.211.14.239/forum/iptv_wintv.php?id=53
+中天娱乐台,http://154.211.14.239/forum/iptv_wintv.php?id=54
+中天亚洲台,http://154.211.14.239/forum/iptv_wintv.php?id=55
+中视菁采,http://154.211.14.239/forum/iptv_wintv.php?id=57
+中视经典,http://154.211.14.239/forum/iptv_wintv.php?id=58
+台视综合台,http://154.211.14.239/forum/iptv_wintv.php?id=60
+台视财经,http://154.211.14.239/forum/iptv_wintv.php?id=61
+民视台湾台,http://154.211.14.239/forum/iptv_wintv.php?id=63
+民视第一台,http://154.211.14.239/forum/iptv_wintv.php?id=64
+民视综艺,http://154.211.14.239/forum/iptv_wintv.php?id=65
+民视旅游,http://154.211.14.239/forum/iptv_wintv.php?id=66
+民视影剧,http://154.211.14.239/forum/iptv_wintv.php?id=67
+东森综合台,http://154.211.14.239/forum/iptv_wintv.php?id=68
+东森财经新闻台,http://154.211.14.239/forum/iptv_wintv.php?id=69
+东森电影台,http://154.211.14.239/forum/iptv_wintv.php?id=70
+东森洋片台,http://154.211.14.239/forum/iptv_wintv.php?id=71
+东森戏剧台,http://154.211.14.239/forum/iptv_wintv.php?id=72
+东森幼幼,http://154.211.14.239/forum/iptv_wintv.php?id=73
+东森亚洲,http://154.211.14.239/forum/iptv_wintv.php?id=74
+东森超视,http://154.211.14.239/forum/iptv_wintv.php?id=75
+公视戏剧台,http://154.211.14.239/forum/iptv_wintv.php?id=77
+公视三台,http://154.211.14.239/forum/iptv_wintv.php?id=78
+纬来体育台,http://154.211.14.239/forum/iptv_wintv.php?id=80
+纬来电影台,http://154.211.14.239/forum/iptv_wintv.php?id=81
+纬来综合台,http://154.211.14.239/forum/iptv_wintv.php?id=82
+纬来戏剧台,http://154.211.14.239/forum/iptv_wintv.php?id=83
+纬来育乐台,http://154.211.14.239/forum/iptv_wintv.php?id=84
+靖洋戏剧台,http://154.211.14.239/forum/iptv_wintv.php?id=86
+靖洋卡通台,http://154.211.14.239/forum/iptv_wintv.php?id=87
+靖天國際台,http://154.211.14.239/forum/iptv_wintv.php?id=88
+靖天卡通台,http://154.211.14.239/forum/iptv_wintv.php?id=89
+靖天综合台,http://154.211.14.239/forum/iptv_wintv.php?id=90
+靖天映画,http://154.211.14.239/forum/iptv_wintv.php?id=91
+靖天戏剧台,http://154.211.14.239/forum/iptv_wintv.php?id=92
+靖天电影台,http://154.211.14.239/forum/iptv_wintv.php?id=93
+靖天育乐台,http://154.211.14.239/forum/iptv_wintv.php?id=94
+靖天资讯台,http://154.211.14.239/forum/iptv_wintv.php?id=95
+靖天歡樂台,http://154.211.14.239/forum/iptv_wintv.php?id=96
+靖天日本台,http://154.211.14.239/forum/iptv_wintv.php?id=97
+HBO HD,http://154.211.14.239/forum/iptv_wintv.php?id=99
+FOX HD,http://154.211.14.239/forum/iptv_wintv.php?id=100
+FOX Action Movies,http://154.211.14.239/forum/iptv_wintv.php?id=101
+好莱坞电影台,http://154.211.14.239/forum/iptv_wintv.php?id=102
+香港有线电影台,http://154.211.14.239/forum/iptv_wintv.php?id=103
+美亚电影台,http://154.211.14.239/forum/iptv_wintv.php?id=104
+星卫电影台,http://154.211.14.239/forum/iptv_wintv.php?id=105
+卫视电影台,http://154.211.14.239/forum/iptv_wintv.php?id=106
+卫视卡式台,http://154.211.14.239/forum/iptv_wintv.php?id=107
+卫视中文台,http://154.211.14.239/forum/iptv_wintv.php?id=108
+卫视洋片台,http://154.211.14.239/forum/iptv_wintv.php?id=109
+星卫娱乐台,http://154.211.14.239/forum/iptv_wintv.php?id=110
+龙祥时代,http://154.211.14.239/forum/iptv_wintv.php?id=111
+天映频道,http://154.211.14.239/forum/iptv_wintv.php?id=112
+天映经典,http://154.211.14.239/forum/iptv_wintv.php?id=113
+凤凰卫视电影台,http://154.211.14.239/forum/iptv_wintv.php?id=114
+Discovery,http://154.211.14.239/forum/iptv_wintv.php?id=115
+DiscoveryAsia,http://154.211.14.239/forum/iptv_wintv.php?id=116
+Discovery科学,http://154.211.14.239/forum/iptv_wintv.php?id=117
+Discovery动力,http://154.211.14.239/forum/iptv_wintv.php?id=118
+国家地理,http://154.211.14.239/forum/iptv_wintv.php?id=119
+国家地理野生,http://154.211.14.239/forum/iptv_wintv.php?id=120
+国家地理悠人,http://154.211.14.239/forum/iptv_wintv.php?id=121
+动物星球,http://154.211.14.239/forum/iptv_wintv.php?id=122
+CNN,http://154.211.14.239/forum/iptv_wintv.php?id=124
+BBC纪实,http://154.211.14.239/forum/iptv_wintv.php?id=125
+客家卫视,http://154.211.14.239/forum/iptv_wintv.php?id=127
+愛爾達娛樂台,http://154.211.14.239/forum/iptv_wintv.php?id=128
+達文西頻道,http://154.211.14.239/forum/iptv_wintv.php?id=129
+ELTV生活英語台,http://154.211.14.239/forum/iptv_wintv.php?id=130
+i-Fun動漫台,http://154.211.14.239/forum/iptv_wintv.php?id=131
+Baby First,http://154.211.14.239/forum/iptv_wintv.php?id=132
+MOMO親子台,http://154.211.14.239/forum/iptv_wintv.php?id=133
+博斯魅力台,http://154.211.14.239/forum/iptv_wintv.php?id=135
+博斯高球台,http://154.211.14.239/forum/iptv_wintv.php?id=136
+博斯高球二台,http://154.211.14.239/forum/iptv_wintv.php?id=137
+博斯運動一台,http://154.211.14.239/forum/iptv_wintv.php?id=138
+博斯運動二台,http://154.211.14.239/forum/iptv_wintv.php?id=139
+博斯網球台,http://154.211.14.239/forum/iptv_wintv.php?id=140
+博斯無限台,http://154.211.14.239/forum/iptv_wintv.php?id=141
+智林體育台,http://154.211.14.239/forum/iptv_wintv.php?id=143
+時尚運動X,http://154.211.14.239/forum/iptv_wintv.php?id=144
+亞洲旅遊台,http://154.211.14.239/forum/iptv_wintv.php?id=145
+Fashion One,http://154.211.14.239/forum/iptv_wintv.php?id=146
+龍華卡通台,http://154.211.14.239/forum/iptv_wintv.php?id=148
+龍華電影台,http://154.211.14.239/forum/iptv_wintv.php?id=149
+龍華戲劇台,http://154.211.14.239/forum/iptv_wintv.php?id=150
+龍華偶像台,http://154.211.14.239/forum/iptv_wintv.php?id=151
+龍華日韓台,http://154.211.14.239/forum/iptv_wintv.php?id=152
+龍華洋片台,http://154.211.14.239/forum/iptv_wintv.php?id=153
+視納華仁紀實頻道,http://154.211.14.239/forum/iptv_wintv.php?id=155
+采昌影劇台,http://154.211.14.239/forum/iptv_wintv.php?id=156
+影迷數位電影台,http://154.211.14.239/forum/iptv_wintv.php?id=157
+半島國際新聞台,http://154.211.14.239/forum/iptv_wintv.php?id=159
 测试2_333,#genre#
 松视1台,p2p://51.79.41.139:18912/5c18f8fb000648839ad60aa0ba532ed5.ts
 松視2台,p2p://51.79.41.139:18912/5c18f8f7000d865d5ab52e9a3d98f376.ts
