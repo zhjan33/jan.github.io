@@ -89,180 +89,40 @@ TVS1 经济科教,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&
 TVS2 南方卫视,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=9&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 TVS5 广东少儿,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=231&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 纳加测试,#genre#
-ELW体育,http://58.99.33.1:1935/liveedge2/QcpeIJWu_999_75_1/playlist.m3u8?checkCode=37050688asdfsdfsadf
-智林体育,http://58.99.33.1:1935/liveedge2/QcpeIJWu_999_122_1/playlist.m3u8?checkCode=37050688asdfsdfsadf
-民視HD,http://58.99.33.2:1935/liveedge2/QcpeIJWu_5_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-CNN國際新聞,http://58.99.33.2:1935/liveedge2/QcpeIJWu_6_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-台視HD,http://58.99.33.2:1935/liveedge2/QcpeIJWu_7_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-人間衛視,http://58.99.33.2:1935/liveedge2/QcpeIJWu_8_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-中視HD,http://58.99.33.2:1935/liveedge2/QcpeIJWu_9_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-大愛電視HD,http://58.99.33.2:1935/liveedge2/QcpeIJWu_10_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-華視HD,http://58.99.33.2:1935/liveedge2/QcpeIJWu_11_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-動物星球,http://58.99.33.2:1935/liveedge2/QcpeIJWu_12_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-公視HD,http://58.99.33.2:1935/liveedge2/QcpeIJWu_13_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-好消息,http://58.99.33.2:1935/liveedge2/QcpeIJWu_15_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-原住民電視台,http://58.99.33.2:1935/liveedge2/QcpeIJWu_16_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-客家電視台,http://58.99.33.2:1935/liveedge2/QcpeIJWu_17_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-國家地理頻道,http://58.99.33.2:1935/liveedge2/QcpeIJWu_18_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-探索頻道,http://58.99.33.2:1935/liveedge2/QcpeIJWu_19_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-中台灣生活網,http://58.99.33.2:1935/liveedge2/QcpeIJWu_20_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-TLC 旅遊生活,http://58.99.33.2:1935/liveedge2/QcpeIJWu_21_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-CN卡通,http://58.99.33.2:1935/liveedge2/QcpeIJWu_22_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-迪士尼頻道,http://58.99.33.2:1935/liveedge2/QcpeIJWu_23_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-MOMO親子,http://58.99.33.2:1935/liveedge2/QcpeIJWu_24_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-東森幼幼台,http://58.99.33.2:1935/liveedge2/QcpeIJWu_25_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-緯來綜合台,http://58.99.33.2:1935/liveedge2/QcpeIJWu_26_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-八大第1台,http://58.99.33.2:1935/liveedge2/QcpeIJWu_27_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-八大綜合台,http://58.99.33.2:1935/liveedge2/QcpeIJWu_28_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-三立台灣台,http://58.99.33.2:1935/liveedge2/QcpeIJWu_29_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-三立都會台,http://58.99.33.2:1935/liveedge2/QcpeIJWu_30_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-衛視中文台,http://58.99.33.2:1935/liveedge2/QcpeIJWu_31_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-東森綜合台,http://58.99.33.2:1935/liveedge2/QcpeIJWu_32_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-東森超視,http://58.99.33.2:1935/liveedge2/QcpeIJWu_33_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-東森購物2台,http://58.99.33.2:1935/liveedge2/QcpeIJWu_34_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-MOMO2台,http://58.99.33.2:1935/liveedge2/QcpeIJWu_35_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-中天綜合,http://58.99.33.2:1935/liveedge2/QcpeIJWu_36_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-東風37台,http://58.99.33.2:1935/liveedge2/QcpeIJWu_37_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-年代MUCH-HD,http://58.99.33.2:1935/liveedge2/QcpeIJWu_38_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-東森戲劇台,http://58.99.33.2:1935/liveedge2/QcpeIJWu_40_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-八大戲劇台,http://58.99.33.2:1935/liveedge2/QcpeIJWu_41_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-TVBS歡樂台HD,http://58.99.33.2:1935/liveedge2/QcpeIJWu_42_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-緯來戲劇台,http://58.99.33.2:1935/liveedge2/QcpeIJWu_43_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-高點綜合台,http://58.99.33.2:1935/liveedge2/QcpeIJWu_44_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-JET綜合台,http://58.99.33.2:1935/liveedge2/QcpeIJWu_45_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-MOMO1台,http://58.99.33.2:1935/liveedge2/QcpeIJWu_48_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-壹新聞,http://58.99.33.2:1935/liveedge2/QcpeIJWu_49_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-年代新聞台,http://58.99.33.2:1935/liveedge2/QcpeIJWu_50_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-東森新聞台,http://58.99.33.2:1935/liveedge2/QcpeIJWu_51_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-中天新聞台,http://58.99.33.2:1935/liveedge2/QcpeIJWu_52_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-民視新聞台,http://58.99.33.2:1935/liveedge2/QcpeIJWu_53_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-三立新聞台,http://58.99.33.2:1935/liveedge2/QcpeIJWu_54_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-TVBS新聞台,http://58.99.33.2:1935/liveedge2/QcpeIJWu_55_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-TVBS,http://58.99.33.2:1935/liveedge2/QcpeIJWu_56_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-東森財經新聞台,http://58.99.33.2:1935/liveedge2/QcpeIJWu_57_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-非凡新聞台HD,http://58.99.33.2:1935/liveedge2/QcpeIJWu_58_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-VIVA1台,http://58.99.33.2:1935/liveedge2/QcpeIJWu_59_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-衛視電影台,http://58.99.33.2:1935/liveedge2/QcpeIJWu_61_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-東森電影台,http://58.99.33.2:1935/liveedge2/QcpeIJWu_62_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-緯來電影台,http://58.99.33.2:1935/liveedge2/QcpeIJWu_63_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-冠軍台,http://58.99.33.2:1935/liveedge2/QcpeIJWu_64_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-HBO,http://58.99.33.2:1935/liveedge2/QcpeIJWu_65_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-東森洋片台,http://58.99.33.2:1935/liveedge2/QcpeIJWu_66_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-中天娛樂台,http://58.99.33.2:1935/liveedge2/QcpeIJWu_67_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-好萊塢電影,http://58.99.33.2:1935/liveedge2/QcpeIJWu_68_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-衛視西片台,http://58.99.33.2:1935/liveedge2/QcpeIJWu_69_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-四季台HD,http://58.99.33.2:1935/liveedge2/QcpeIJWu_70_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-CINEMAX電影,http://58.99.33.2:1935/liveedge2/QcpeIJWu_71_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-緯來體育台,http://58.99.33.2:1935/liveedge2/QcpeIJWu_72_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-FOX體育台,http://58.99.33.2:1935/liveedge2/QcpeIJWu_73_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-FOX體育2台,http://58.99.33.2:1935/liveedge2/QcpeIJWu_74_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-緯來日本台,http://58.99.33.2:1935/liveedge2/QcpeIJWu_75_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-國興衛視,http://58.99.33.2:1935/liveedge2/QcpeIJWu_76_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-海豚綜合台,http://58.99.33.2:1935/liveedge2/QcpeIJWu_77_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-民俗才藝,http://58.99.33.2:1935/liveedge2/QcpeIJWu_78_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-纬来日本HD,http://58.99.33.2:1935/liveedge2/QcpeIJWu_79_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-MOMO综合,http://58.99.33.2:1935/liveedge2/QcpeIJWu_80_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-VIVA2台,http://58.99.33.2:1935/liveedge2/QcpeIJWu_81_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-信吉衛星,http://58.99.33.2:1935/liveedge2/QcpeIJWu_82_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-桐瑛電視,http://58.99.33.2:1935/liveedge2/QcpeIJWu_83_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-AXN,http://58.99.33.2:1935/liveedge2/QcpeIJWu_84_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-Z頻道,http://58.99.33.2:1935/liveedge2/QcpeIJWu_85_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-信大電視,http://58.99.33.2:1935/liveedge2/QcpeIJWu_86_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-緯來育樂台,http://58.99.33.2:1935/liveedge2/QcpeIJWu_87_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-三立財經台,http://58.99.33.2:1935/liveedge2/QcpeIJWu_88_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-凱亞綜合台,http://58.99.33.2:1935/liveedge2/QcpeIJWu_89_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-台灣藝術台,http://58.99.33.2:1935/liveedge2/QcpeIJWu_90_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-台灣綜合台,http://58.99.33.2:1935/liveedge2/QcpeIJWu_91_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-天良綜合台,http://58.99.33.2:1935/liveedge2/QcpeIJWu_92_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-龍祥時代,http://58.99.33.2:1935/liveedge2/QcpeIJWu_93_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-誠心電視,http://58.99.33.2:1935/liveedge2/QcpeIJWu_94_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-非凡商業,http://58.99.33.2:1935/liveedge2/QcpeIJWu_95_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-霹靂台灣,http://58.99.33.2:1935/liveedge2/QcpeIJWu_96_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-運通財經,http://58.99.33.2:1935/liveedge2/QcpeIJWu_97_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-NHK,http://58.99.33.2:1935/liveedge2/QcpeIJWu_98_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-新增頻道,http://58.99.33.2:1935/liveedge2/QcpeIJWu_99_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-MTV,http://58.99.33.2:1935/liveedge2/QcpeIJWu_100_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-FOX,http://58.99.33.2:1935/liveedge2/QcpeIJWu_101_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-華視新聞資訊,http://58.99.33.2:1935/liveedge2/QcpeIJWu_108_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-番薯電視台HD,http://58.99.33.2:1935/liveedge2/QcpeIJWu_110_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-國家地理HD,http://58.99.33.2:1935/liveedge2/QcpeIJWu_113_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-國家地理野生HD,http://58.99.33.2:1935/liveedge2/QcpeIJWu_114_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-FOX家庭電影,http://58.99.33.2:1935/liveedge2/QcpeIJWu_115_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-FOX HD,http://58.99.33.2:1935/liveedge2/QcpeIJWu_116_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-TVN,http://58.99.33.2:1935/liveedge2/QcpeIJWu_117_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-公視3台HD,http://58.99.33.2:1935/liveedge2/QcpeIJWu_118_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-台灣交通台,http://58.99.33.2:1935/liveedge2/QcpeIJWu_120_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-台視新聞,http://58.99.33.2:1935/liveedge2/QcpeIJWu_121_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-華視綜合娛樂,http://58.99.33.2:1935/liveedge2/QcpeIJWu_123_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-探索世界HD,http://58.99.33.2:1935/liveedge2/QcpeIJWu_129_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-探索科學,http://58.99.33.2:1935/liveedge2/QcpeIJWu_130_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-探索DMAX,http://58.99.33.2:1935/liveedge2/QcpeIJWu_131_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-探索eve,http://58.99.33.2:1935/liveedge2/QcpeIJWu_132_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-BBC Earth HD,http://58.99.33.2:1935/liveedge2/QcpeIJWu_133_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-BBC Entertainment Channel,http://58.99.33.2:1935/liveedge2/QcpeIJWu_134_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-BBC life style,http://58.99.33.2:1935/liveedge2/QcpeIJWu_135_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-居家生活電視台,http://58.99.33.2:1935/liveedge2/QcpeIJWu_136_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-Warner TV,http://58.99.33.2:1935/liveedge2/QcpeIJWu_137_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-大愛2台HD,http://58.99.33.2:1935/liveedge2/QcpeIJWu_201_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-DMAX,http://58.99.33.2:1935/liveedge2/QcpeIJWu_202_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-亞洲新聞台,http://58.99.33.2:1935/liveedge2/QcpeIJWu_205_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-BBC World News,http://58.99.33.2:1935/liveedge2/QcpeIJWu_207_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-國家地理音樂,http://58.99.33.2:1935/liveedge2/QcpeIJWu_210_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-台股資訊頻道,http://58.99.33.2:1935/liveedge2/QcpeIJWu_222_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-HBO HD,http://58.99.33.2:1935/liveedge2/QcpeIJWu_220_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-HBO 原創鉅獻,http://58.99.33.2:1935/liveedge2/QcpeIJWu_221_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-HBO 溫馨家庭,http://58.99.33.2:1935/liveedge2/QcpeIJWu_222_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-HBO 強檔鉅獻,http://58.99.33.2:1935/liveedge2/QcpeIJWu_223_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-玩家頻道,http://58.99.33.2:1935/liveedge2/QcpeIJWu_401_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-Happy 頻道,http://58.99.33.2:1935/liveedge2/QcpeIJWu_402_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-HOT 頻道,http://58.99.33.2:1935/liveedge2/QcpeIJWu_403_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-松視4台,http://58.99.33.2:1935/liveedge2/QcpeIJWu_404_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-松視1台HD,http://58.99.33.2:1935/liveedge2/QcpeIJWu_405_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-松視2台,http://58.99.33.2:1935/liveedge2/QcpeIJWu_406_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-松視3台,http://58.99.33.2:1935/liveedge2/QcpeIJWu_407_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-彩虹,http://58.99.33.2:1935/liveedge2/QcpeIJWu_408_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-叮噹CR電視台,http://58.99.33.2:1935/liveedge2/QcpeIJWu_409_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-樂活頻道,http://58.99.33.2:1935/liveedge2/QcpeIJWu_410_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-潘朵拉玩美台HD,http://58.99.33.2:1935/liveedge2/QcpeIJWu_411_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-潘朵拉粉紅台HD,http://58.99.33.2:1935/liveedge2/QcpeIJWu_412_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-驚艷CR電視台,http://58.99.33.2:1935/liveedge2/QcpeIJWu_413_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-博斯高球,http://58.99.33.2:1935/liveedge2/QcpeIJWu_601_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-博斯網球,http://58.99.33.2:1935/liveedge2/QcpeIJWu_602_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-博斯足球,http://58.99.33.2:1935/liveedge2/QcpeIJWu_603_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-博斯魅力,http://58.99.33.2:1935/liveedge2/QcpeIJWu_604_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-博斯高球Ⅱ,http://58.99.33.2:1935/liveedge2/QcpeIJWu_605_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-上海東方衛視,http://58.99.33.2:1935/liveedge2/QcpeIJWu_901_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-中國電影,http://58.99.33.2:1935/liveedge2/QcpeIJWu_902_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-CCTV中文國際,http://58.99.33.2:1935/liveedge2/QcpeIJWu_903_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-湖南衛視國際頻道,http://58.99.33.2:1935/liveedge2/QcpeIJWu_904_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-CCTV娛樂頻道,http://58.99.33.2:1935/liveedge2/QcpeIJWu_905_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-CCTV英語新聞,http://58.99.33.2:1935/liveedge2/QcpeIJWu_906_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-CCTV戲曲,http://58.99.33.2:1935/liveedge2/QcpeIJWu_907_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-北京衛視國際頻道,http://58.99.33.2:1935/liveedge2/QcpeIJWu_908_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-江蘇國際,http://58.99.33.2:1935/liveedge2/QcpeIJWu_909_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-海峽衛視,http://58.99.33.2:1935/liveedge2/QcpeIJWu_910_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-廈門衛視,http://58.99.33.2:1935/liveedge2/QcpeIJWu_911_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-廣東南方衛視,http://58.99.33.2:1935/liveedge2/QcpeIJWu_912_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-深圳衛視,http://58.99.33.2:1935/liveedge2/QcpeIJWu_913_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-CCTV9 紀錄,http://58.99.33.2:1935/liveedge2/QcpeIJWu_914_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-天津國際,http://58.99.33.2:1935/liveedge2/QcpeIJWu_915_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-重慶國際,http://58.99.33.2:1935/liveedge2/QcpeIJWu_916_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-山東國際,http://58.99.33.2:1935/liveedge2/QcpeIJWu_917_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-中國黃河,http://58.99.33.2:1935/liveedge2/QcpeIJWu_918_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-湖南國際,http://58.99.33.2:1935/liveedge2/QcpeIJWu_919_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-安徽國際,http://58.99.33.2:1935/liveedge2/QcpeIJWu_920_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-浙江國際,http://58.99.33.2:1935/liveedge2/QcpeIJWu_921_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-雲南國際,http://58.99.33.2:1935/liveedge2/QcpeIJWu_922_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-冠軍夢想台,http://58.99.33.2:1935/liveedge/QcpeIJWu_2_0_0/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-大台中新聞,http://58.99.33.2:1935/liveedge/QcpeIJWu_1_1_0/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-南投新聞,http://58.99.33.2:1935/liveedge/QcpeIJWu_1_2_0/manifest.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-雲林新聞台,http://58.99.33.2:1935/liveedge/QcpeIJWu_1_0_0/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-東森購物2台,http://58.99.33.2:1935/liveedge/QcpeIJWu_35.smil/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-東森購物3台,http://58.99.33.2:1935/liveedge/QcpeIJWu_46.smil/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-東森購物1台,http://58.99.33.2:1935/liveedge/QcpeIJWu_47.smil/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-東森購物5台,http://58.99.33.2:1935/liveedge/QcpeIJWu_60.smil/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-東森購物4台,http://58.99.33.2:1935/liveedge/QcpeIJWu_80.smil/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-CDATA[廣告頻道,http://58.99.33.2:1935/liveedge/QcpeIJWu_999.smil/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+1-翡翠,p2p://fccsovh.pvbox.live:18912/5d1220350000ba27b8eae78932985aba
+2-翡翠,p2p://fccsovh.pvbox.live:18912/5b1409fc00088a7f17d160f9f69bd971
+1-无线新闻,p2p://fccsovh.pvbox.live:18912/5b1409fc000a355eacd19b607afdd7bb
+2-无线新闻,p2p://fccsovh.pvbox.live:18912/5b140953000cd4a84cef51b991f16951
+1-J2,p2p://fccsovh.pvbox.live:18912/5b1409fc000dca06f338c94e1f9ae396
+2-J2,p2p://fccseuro.pvbox.live:18912/5d122036000a06612becfa24a1e7fef8
+J5,p2p://fccseuro.pvbox.live:18912/5b14095400047cf57894da23ecd65ae7
+明珠,p2p://fccsovh.pvbox.live:18912/5b1409540009bb8bb90a902a2ab9a775
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+无线财经,p2p://fccseuro.pvbox.live:18912/5dbeb1cc0007501611136e06133e0b65
+HKC新闻,p2p://fccseuro.pvbox.live:18912/5b13f6f100047cdef5f73c9021bbafe5
+HKC电影一台,p2p://fccseuro.pvbox.live:18912/5b140a1600025764b664ccfb85cd7a2f
+私人影院,p2p://fccseuro.pvbox.live:18912/5b140a98000c5ae61774bcda4342023a
+TVB星河,p2p://fccseuro.pvbox.live:18912/5d65048c0003e9ae7b40aa09266e5a98
+VIUTV6,p2p://fccseuro.pvbox.live:18912/5b1409fd00079683ced9f914ba48cf7b
+VIU,p2p://fccseuro.pvbox.live:18912/5b1409540006651913b788efa4b0bfc2
+星空卫视,p2p://fccseuro.pvbox.live:18912/5b1409fb0000e98504183cbf83f5ecb7
+凤凰中文台 HD,p2p://fccseuro.pvbox.live:18912/5b14092b000759565f9045e8e93f40d9
+凤凰资讯台 HD,p2p://fccseuro.pvbox.live:18912/5b14092b00090483fcd275c598459685
+凤凰香港台 HD,p2p://fccseuro.pvbox.live:18912/5b14092b000ab058d6b5acbba136b274
+海峡卫视,p2p://fccseuro.pvbox.live:18912/5b140a99000c97f5437f3d56ea9e3e6a
+莲花卫视,p2p://fccseuro.pvbox.live:18912/5b1409fb00088a46ff3ccdb540cf30be
+WBTV,p2p://fccseuro.pvbox.live:18912/5b140a1600043fc98621ae1605673b4c
+CHINA MOVIE,p2p://fccseuro.pvbox.live:18912/5b14095e00097ea86012bebee6992c48
+中华美食频道,p2p://fccseuro.pvbox.live:18912/5b14092b0001266158bc13346a455d66
+NOW 新闻,p2p://fccseuro.pvbox.live:18912/5b20e3ae00008df972287f2c4ad21d36
+NOW SPORTS1,p2p://fccseuro.pvbox.live:18912/5e7c6d93000c7d74ce7bb9fa5b3a1f52
+RTHK31,p2p://fccseuro.pvbox.live:18912/5badd38d000891c4d3889e287702c472
+RTHK32,p2p://fccseuro.pvbox.live:18912/5badd3910003a73d3d7ddbff1e46042f
+BEIN SPORTS,p2p://fccsovh.pvbox.live:18912/5cf559ed000079fb1e4ae50e0235ae29
+WWE,p2p://fccsovh.pvbox.live:18912/5cffd5d900072496bd484aed0ac70a49
+TVB US 1,p2p://fccsovh.pvbox.live:18912/5cffd79b00082246f8826d560f7755d1
+TVB US 2,p2p://fccsovh.pvbox.live:18912/5cffd79d0004cbb6308335c986bee7c4
+TVBHD,p2p://fccsovh.pvbox.live:18912/5cf559f800003d1bbf7b3ce09833eab3
 数字电视1,#genre#
 CHC高清电影,http://ivi.bupt.edu.cn/hls/chchd.m3u8
 CHC动作电影,http://125.210.152.18:9090/live/DZDYHD.m3u8
