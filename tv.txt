@@ -4,6 +4,21 @@
 TVB翡翠台,http://pl0.live.huajiao.com/live_huajiao_v2/jade-mai-he-zi.flv#http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv&_res_tag_=video
 香港開電視,tvbus://4tEWVwazfYxEPmrqU5Xhr9GNDF7a9LR3JXhDKX2MFWRwoJYTDN
 有線財經,tvbus://3WLtb7Fwsr5CRigDf6uK3mX83q3QXFXh6pBXum8Ebq58u1327W
+TVB翡翠,http://47.240.60.73/xaors/mlxy.php?channel=f9c0fc853c9dd0b6be92eacc07943460
+TVB明珠,http://47.240.60.73/xaors/mlxy.php?channel=d21fc46e7be754c79ba69a4098151b0b
+TVB星河,http://47.240.60.73/xaors/mlxy.php?channel=47b66f36d3fdce6ef682a8d8f5fb47b8
+TVB经典,http://47.240.60.73/xaors/mlxy.php?channel=f7dd2e78b8eb4f8991d442314c00431d
+TVB功夫,http://47.240.60.73/xaors/mlxy.php?channel=4c684528e903d15d1d98c429497e7e10
+TVB J2,http://47.240.60.73/xaors/mlxy.php?channel=4e2a008fe0f5173222b99f03c1560d7b
+RH31,http://47.240.60.73/xaors/mlxy.php?channel=7e747f53a7c2846d3d23f9a070dbbd1e
+RH32,http://47.240.60.73/xaors/mlxy.php?channel=814bcfd3ba242e7f6f2d3cd4287607db
+VIU tv,http://47.240.60.73/xaors/mlxy.php?channel=067582cf579161f572cdbb61e66566a7
+VIU6 tv,http://47.240.60.73/xaors/mlxy.php?channel=20277db4537deab325dde76751e884f7
+无线财经,http://47.240.60.73/xaors/mlxy.php?channel=2f65e491386884782472699bcc1efef7
+无线新闻,http://47.240.60.73/xaors/mlxy.php?channel=c401bb84625c372236da993f643d5674
+有线新闻,http://47.240.60.73/xaors/mlxy.php?channel=ede1d83bf1194048d44db9ae3d8f504b
+有线电影,http://47.240.60.73/xaors/mlxy.php?channel=3cc5fb32f48f180e4e5d1968af54619b
+有线体育,http://47.240.60.73/xaors/mlxy.php?channel=e3b1fdc17f115b62166b957b00c01f7f
 央视频道,#genre#
 CCTV-1 综合 FHD,http://101.71.255.229:6610/zjhs/2/10079/index.m3u8?virtualDomain=zjhs.live_hls.zte.com#http://140.249.30.111/tlivecloud-cdn.ysp.cctv.cn/001/2000210103.m3u8#https://liveali.ifeng.com/live/FHYC.m3u8#http://player.200877926.top/17/fj/fjtvm3u8.php?id=212#http://cdn-in.iqy.sc96655.com/tslive/c211_scc_20190617_t0x01q5a_original_r10/cctv1hd_4000.m3u8#http://l1.weihai.tv:8081/hls/3bjRUVNYwi.m3u8
 CCTV-2 财经 FHD,http://101.71.255.229:6610/zjhs/2/10089/index.m3u8?virtualDomain=zjhs.live_hls.zte.com#http://140.249.30.111/tlivecloud-cdn.ysp.cctv.cn/001/2000203603.m3u8#https://116.77.72.195/streams/d/cctv2/playlist.m3u8#http://121.31.30.90:8085/ysten-business/live/cctv-2/1.m3u8#http://cdn-in.iqy.sc96655.com/tslive/c211_scc_20190617_t0x01q5a_original_r10/cctv2hd_4000.m3u8
