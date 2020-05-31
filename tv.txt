@@ -1,6 +1,6 @@
 港台新闻,#genre#
 无线新闻,http://www.liveviptv.xyz/tv/tvb.php?vid=wxxw#http://seb.sason.top/ptv/tvb.php?id=xw#http://jdpull.jd.com/live/tvbnews_jd.flv
-有线新闻,https://icable.cdn.utvhk.com/live/4cc64fb362004798b222978935590b2c/1980ba5c365e4f049f99aced1277303c-3.m3u8#https://ottproxy2.mott.tv/livehls/MOB-SCC/02.m3u8#https://ottproxy2.mott.tv/livehls/MOB-SCC/03.m3u8
+有线新闻,https://icable.cdn.utvhk.com/live/4cc64fb362004798b222978935590b2c/1980ba5c365e4f049f99aced1277303c-3.m3u8#https://ottproxy2.mott.tv/livehls/MOB-SCC/02.m3u8#https://ottproxy2.mott.tv/livehls/MOB-SCC/03.m3u8#http://jdpull.jd.com/live/icable_jd.flv
 香港開電視,tvbus://4tEWVwazfYxEPmrqU5Xhr9GNDF7a9LR3JXhDKX2MFWRwoJYTDN
 有線財經,tvbus://3WLtb7Fwsr5CRigDf6uK3mX83q3QXFXh6pBXum8Ebq58u1327W
 央视频道,#genre#
