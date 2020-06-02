@@ -1,9 +1,9 @@
 港台新闻,#genre#
-无线新闻,http://www.liveviptv.xyz/tv/tvb.php?vid=wxxw#http://seb.sason.top/ptv/tvb.php?id=xw
+无线新闻,http://seb.sason.top/ptv/tvb.php?id=xw#http://www.liveviptv.xyz/tv/tvb.php?vid=wxxw
 有线新闻,https://icable.cdn.utvhk.com/live/4cc64fb362004798b222978935590b2c/1980ba5c365e4f049f99aced1277303c-3.m3u8#https://ottproxy2.mott.tv/livehls/MOB-SCC/02.m3u8#https://ottproxy2.mott.tv/livehls/MOB-SCC/03.m3u8
 翡翠台,http://zjcssy.xuelun.me/tvbfct.php
-香港開電視,http://jdpull.jd.com/live/fantv_jd.flv
-无线财经,http://jdpull.jd.com/live/tvbj5_jd.flv
+香港開電視,http://media.fantv.hk/m3u8/archive/channel2.m3u8
+无线财经,http://seb.sason.top/ptv/tvb.php?id=cj
 央视频道,#genre#
 CCTV-1 综合 FHD,http://101.71.255.229:6610/zjhs/2/10079/index.m3u8?virtualDomain=zjhs.live_hls.zte.com#http://140.249.30.111/tlivecloud-cdn.ysp.cctv.cn/001/2000210103.m3u8#https://liveali.ifeng.com/live/FHYC.m3u8#http://player.200877926.top/17/fj/fjtvm3u8.php?id=212#http://cdn-in.iqy.sc96655.com/tslive/c211_scc_20190617_t0x01q5a_original_r10/cctv1hd_4000.m3u8#http://l1.weihai.tv:8081/hls/3bjRUVNYwi.m3u8
 CCTV-2 财经 FHD,http://101.71.255.229:6610/zjhs/2/10089/index.m3u8?virtualDomain=zjhs.live_hls.zte.com#http://140.249.30.111/tlivecloud-cdn.ysp.cctv.cn/001/2000203603.m3u8#https://116.77.72.195/streams/d/cctv2/playlist.m3u8#http://121.31.30.90:8085/ysten-business/live/cctv-2/1.m3u8#http://cdn-in.iqy.sc96655.com/tslive/c211_scc_20190617_t0x01q5a_original_r10/cctv2hd_4000.m3u8
