@@ -1,7 +1,6 @@
 港台新闻,#genre#
 无线新闻,http://seb.sason.top/ptv/tvb.php?id=xw#http://www.liveviptv.xyz/tv/tvb.php?vid=wxxw
 有线新闻,https://icable.cdn.utvhk.com/live/4cc64fb362004798b222978935590b2c/1980ba5c365e4f049f99aced1277303c-3.m3u8#https://ottproxy2.mott.tv/livehls/MOB-SCC/02.m3u8#https://ottproxy2.mott.tv/livehls/MOB-SCC/03.m3u8
-NOW新闻,http://video.0058.com/RoomVideoChat/cde89868f589e8e4ee264138dfdb5141/playlist.m3u8?wsSession=df55bace15cd6ae745ec45fa-159127454083888&wsIPSercert=581eaea4975ee060422897d3d08e38c9&wsMonitor=0
 无线财经,http://seb.sason.top/ptv/tvb.php?id=cj
 翡翠台,http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=10&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 TVB明珠台,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=12&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
@@ -93,102 +92,8 @@ CCTV-17 农村农业 FHD,http://140.249.30.111/tlivecloud-cdn.ysp.cctv.cn/001/20
 TVS1 经济科教,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=198&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 TVS2 南方卫视,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=9&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 TVS5 广东少儿,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=231&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-纳加测试,#genre#
-探索亚洲,http://210.242.244.62:1935/8916/101/playlist.m3u8
-美亚电影,http://210.242.244.62:1935/8916/102/playlist.m3u8
-HBO亚洲,http://210.242.244.62:1935/8916/103/playlist.m3u8
-EVEVEN体育PLUS,http://210.242.244.62:1935/8916/104/playlist.m3u8
-年代新闻,http://210.242.244.62:1935/8916/105/playlist.m3u8
-无线新闻,http://210.242.244.62:1935/8916/106/playlist.m3u8
-FOX CRIME,http://210.242.244.62:1935/8916/107/playlist.m3u8
-FOX family,http://210.242.244.62:1935/8916/108/playlist.m3u8
-中国电影,http://210.242.244.62:1935/8916/109/playlist.m3u8
-FX,http://210.242.244.62:1935/8916/110/playlist.m3u8
-ELTA体育II,http://210.242.244.62:1935/8916/111/playlist.m3u8
-八大综合,http://210.242.244.62:1935/8916/112/playlist.m3u8
-CCTV3,http://210.242.244.62:1935/8916/114/playlist.m3u8
-FOX3HD,http://210.242.244.62:1935/8916/114/playlist.m3u8
-国兴卫视HD,http://210.242.244.62:1935/8916/115/playlist.m3u8
-壹新闻HD,http://210.242.244.62:1935/8916/116/playlist.m3u8
-TVBS精采HD,http://210.242.244.62:1935/8916/117/playlist.m3u8
-动物星球,http://210.242.244.62:1935/8916/119/playlist.m3u8
-中天娱乐,http://210.242.244.62:1935/8916/120/playlist.m3u8
-中天新闻,http://210.242.244.62:1935/8916/121/playlist.m3u8
-纬来精彩,http://210.242.244.62:1935/8916/122/playlist.m3u8
-东森戏剧,http://210.242.244.62:1935/8916/123/playlist.m3u8
-三立戏剧,http://210.242.244.62:1935/8916/124/playlist.m3u8
-TVB星河,http://210.242.244.62:1935/8916/125/playlist.m3u8
-博纳瑞,http://210.242.244.62:1935/8916/126/playlist.m3u8
-三立综合,http://210.242.244.62:1935/8916/127/playlist.m3u8
-CCTV-6,http://210.242.244.62:1935/8916/128/playlist.m3u8
-CGTN,http://210.242.244.62:1935/8916/129/playlist.m3u8
-非凡新闻,http://210.242.244.62:1935/8916/130/playlist.m3u8
-TLC HD,http://210.242.244.62:1935/8916/131/playlist.m3u8
-湖南国际,http://210.242.244.62:1935/8916/132/playlist.m3u8
-ELTA体育I,http://210.242.244.62:1935/8916/133/playlist.m3u8
-东森电影,http://210.242.244.62:1935/8916/134/playlist.m3u8
-东森综合,http://210.242.244.62:1935/8916/135/playlist.m3u8
-八大戏剧,http://210.242.244.62:1935/8916/136/playlist.m3u8
-东森洋片,http://210.242.244.62:1935/8916/137/playlist.m3u8
-国家地理,http://210.242.244.62:1935/8916/138/playlist.m3u8
-东森超视,http://210.242.244.62:1935/8916/139/playlist.m3u8
-华纳影视,http://210.242.244.62:1935/8916/140/playlist.m3u8
-东森幼幼,http://210.242.244.62:1935/8916/141/playlist.m3u8
-八大第一,http://210.242.244.62:1935/8916/142/playlist.m3u8
-卫视洋片,http://210.242.244.62:1935/8916/143/playlist.m3u8
-FOX,http://210.242.244.62:1935/8916/144/playlist.m3u8
-探索频道,http://210.242.244.62:1935/8916/145/playlist.m3u8
-韩国娱乐,http://210.242.244.62:1935/8916/146/playlist.m3u8
-DMAX,http://210.242.244.62:1935/8916/147/playlist.m3u8
-AFC 亚洲美食,http://210.242.244.62:1935/8916/148/playlist.m3u8
-音乐LIVE,http://210.242.244.62:1935/8916/149/playlist.m3u8
-大爱,http://210.242.244.62:1935/8916/150/playlist.m3u8
-音乐LIVE,http://210.242.244.62:1935/8916/151/playlist.m3u8
-东森新闻,http://210.242.244.62:1935/8916/152/playlist.m3u8
-中天新闻,http://210.242.244.62:1935/8916/153/playlist.m3u8
-三立新闻,http://210.242.244.62:1935/8916/154/playlist.m3u8
-TVBS新闻,http://210.242.244.62:1935/8916/155/playlist.m3u8
-东森财经新闻,http://210.242.244.62:1935/8916/156/playlist.m3u8
-MOMO1,http://210.242.244.62:1935/8916/157/playlist.m3u8
-MOMO2,http://210.242.244.62:1935/8916/158/playlist.m3u8
-大爱2,http://210.242.244.62:1935/8916/159/playlist.m3u8
-东森购物3,http://210.242.244.62:1935/8916/160/playlist.m3u8
-东森购物5,http://210.242.244.62:1935/8916/161/playlist.m3u8
-美好2,http://210.242.244.62:1935/8916/162/playlist.m3u8
-三立INEWS,http://210.242.244.62:1935/8916/163/playlist.m3u8
-韩娱,http://210.242.244.62:1935/8916/164/playlist.m3u8
-星空卫视,http://210.242.244.62:1935/8916/165/playlist.m3u8
-星空音乐,http://210.242.244.62:1935/8916/166/playlist.m3u8
-阳光卫视,http://210.242.244.62:1935/8916/167/playlist.m3u8
-凤凰中文,http://210.242.244.62:1935/8916/168/playlist.m3u8
-凤凰香港,http://210.242.244.62:1935/8916/169/playlist.m3u8
-凤凰资讯,http://210.242.244.62:1935/8916/170/playlist.m3u8
-NHK WORLD,http://210.242.244.62:1935/8916/171/playlist.m3u8
-DW,http://210.242.244.62:1935/8916/172/playlist.m3u8
-新闻彩条,http://210.242.244.62:1935/8916/173/playlist.m3u8
-中视,http://210.242.244.62:1935/8916/180/playlist.m3u8
-中视新闻,http://210.242.244.62:1935/8916/181/playlist.m3u8
-中视经典,http://210.242.244.62:1935/8916/182/playlist.m3u8
-中视菁采,http://210.242.244.62:1935/8916/183/playlist.m3u8
-公视HD,http://210.242.244.62:1935/8916/184/playlist.m3u8
-公视台语,http://210.242.244.62:1935/8916/185/playlist.m3u8
-民视,http://210.242.244.62:1935/8916/186/playlist.m3u8
-民视第一台,http://210.242.244.62:1935/8916/187/playlist.m3u8
-民视新闻,http://210.242.244.62:1935/8916/188/playlist.m3u8
-民视台湾,http://210.242.244.62:1935/8916/189/playlist.m3u8
-公视3,http://210.242.244.62:1935/8916/190/playlist.m3u8
-原住民电视,http://210.242.244.62:1935/8916/191/playlist.m3u8
-台视,http://210.242.244.62:1935/8916/192/playlist.m3u8
-台视新闻,http://210.242.244.62:1935/8916/193/playlist.m3u8
-台视财经,http://210.242.244.62:1935/8916/194/playlist.m3u8
-台视综合,http://210.242.244.62:1935/8916/195/playlist.m3u8
-华视,http://210.242.244.62:1935/8916/196/playlist.m3u8
-华视教育,http://210.242.244.62:1935/8916/197/playlist.m3u8
-华视新闻,http://210.242.244.62:1935/8916/198/playlist.m3u8
-国会1,http://210.242.244.62:1935/8916/199/playlist.m3u8
-国会2,http://210.242.244.62:1935/8916/200/playlist.m3u8
 
-测试2_333,#genre#
+测试_333,#genre#
 红粉1台,p8p://0198.02686.cc:16871/5d25b7e900054d910a2fd126812250f8.ts
 红粉1台(高清),p8p://0198.02686.cc:16871/5d25b7e900054d910a2fd126812250f8.ts
 红粉2台(高清),p8p://0198.02686.cc:16871/5d25b7e40009b23e0a2fbebea59aef80.ts
