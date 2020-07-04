@@ -1,7 +1,7 @@
 港台新闻,#genre#
 无线新闻,http://danielwu.gz01.bdysite.com/iptv/?id=wxxw2#http://danielwu.gz01.bdysite.com/iptv/?id=wxxw#http://seb.sason.top/ptv/tvb.php?id=xw#http://www.liveviptv.xyz/tv/tvb.php?vid=wxxw
 有线新闻,http://liveicm.utvlive.top/live/4cc64fb362004798b222978935590b2c/1980ba5c365e4f049f99aced1277303c-3.m3u8#https://ottproxy2.mott.tv/livehls/MOB-SCC/02.m3u8#https://ottproxy2.mott.tv/livehls/MOB-SCC/03.m3u8
-NOW,http://pullstream-ucan.speedws.com/live/5995b82f9016e49c9fdda4109dcea5d8.flv#http://mtv.alwaysdata.net/live/proxy.php?vid=iptv805&tid=gt&id=16
+NOW,http://mtv.alwaysdata.net/live/proxy.php?vid=iptv805&tid=gt&id=16
 无线财经,http://mtv.alwaysdata.net/live/proxy.php?vid=iptv805&tid=gt&id=10
 翡翠台,http://pull-flv-l1.ixigua.com/game/tvb20206002t.flv#http://danielwu.gz01.bdysite.com/iptv/?id=tvb
 TVB明珠台,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=12&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
