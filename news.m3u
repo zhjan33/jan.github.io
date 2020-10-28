@@ -1,6 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="130" tvg-name="无线新闻CDN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" ,无线新闻CDN
 http://twilight-lab-65e9.409309.workers.dev/proxy/tvb.php?id=xw
+#EXTINF:-1 tvg-id="130" tvg-name="无线新闻CDN2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" ,无线新闻CDN2
+http://shiny-tooth-90c6.zhjan33.workers.dev/proxy/tvb.php?id=xw
+#EXTINF:-1 tvg-id="130" tvg-name="无线新闻CDN3" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" ,无线新闻CDN3
+http://hidden-sky-2a45.zhjan33.workers.dev/proxy/tvb.php?id=xw
 #EXTINF:-1 tvg-id="130" tvg-name="无线新闻1" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" ,无线新闻1
 http://45.93.217.106/jiuban/hg.php?id=1
 #EXTINF:-1 tvg-id="130" tvg-name="无线新闻2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png",无线新闻2
