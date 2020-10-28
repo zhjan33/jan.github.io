@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="130" tvg-name="无线新闻cdn" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" ,无线新闻cdn
+#EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" ,无线新闻
 http://twilight-lab-65e9.409309.workers.dev/proxy/tvb.php?id=xw
 #EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" ,无线新闻
 http://45.93.217.106/jiuban/hg.php?id=1
