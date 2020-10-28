@@ -3,12 +3,8 @@
 http://twilight-lab-65e9.409309.workers.dev/proxy/tvb.php?id=xw
 #EXTINF:-1 tvg-id="130" tvg-name="无线新闻1" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" ,无线新闻1
 http://45.93.217.106/jiuban/hg.php?id=1
-#EXTINF:-1 tvg-id="130" tvg-name="无线新闻1cdn" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" ,无线新闻1cdn
-http://fragrant-lake-cefb.409309.workers.dev/jiuban/hg.php?id=1
 #EXTINF:-1 tvg-id="130" tvg-name="无线新闻2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png",无线新闻2
 http://http://111.229.84.232/yulin/tvb.php?id=1
-#EXTINF:-1 tvg-id="130" tvg-name="无线新闻2cdn" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png",无线新闻2cdn
-http://plain-silence-2d56.409309.workers.dev/yulin/tvb.php?id=1
 #EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png",无线新闻
 http://45.93.217.106/jiuban/hg.php?id=1
 #EXTINF:-1 tvg-id="7122" tvg-name="有线新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png",有线新闻
