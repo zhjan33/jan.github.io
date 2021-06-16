@@ -9,3 +9,5 @@ https://tv23.7766.workers.dev/hls/82
 https://tv23.7766.workers.dev/hls/85
 #EXTINF:-1 tvg-id="7122" tvg-name="有线财经" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png",VIU tv
 https://tv23.7766.workers.dev/hls/99
+#EXTINF:-1 tvg-id="7122" tvg-name="有线财经" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png",开电视
+https://tv23.7766.workers.dev/hls/77
