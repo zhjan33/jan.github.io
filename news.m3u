@@ -1,11 +1,11 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="126" tvg-logo="http://tv.sason.xyz/logo/tvbfc.png",翡翠台
-http://116.199.5.52:8114/index.m3u8?Fsv_chan_hls_se_idx=188&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
-#EXTINF:-1 tvg-id="130" tvg-name="无线新闻CDN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" ,无线新闻CDN
-http://twilight-lab-65e9.409309.workers.dev/proxy/tvb.php?id=xw
-#EXTINF:-1 tvg-id="130" tvg-name="无线新闻CDN2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" ,无线新闻CDN2
-http://shiny-tooth-90c6.zhjan33.workers.dev/proxy/tvb.php?id=xw
-#EXTINF:-1 tvg-id="130" tvg-name="无线新闻CDN3" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" ,无线新闻CDN3
-http://hidden-sky-2a45.zhjan33.workers.dev/proxy/tvb.php?id=xw
-#EXTINF:-1 tvg-id="7122" tvg-name="有线财经" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png",有线财经
-http://liveicm12.utvlive.top/live/add598ff3f90428da3fbebb644ba135b/2bbaa83758ba412bbdd8d08626c56eb4-2.m3u8
+https://tv23.7766.workers.dev/hls/81/index.m3u8
+#EXTINF:-1 tvg-id="130" tvg-name="无线新闻CDN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" ,无线新闻
+https://tv23.7766.workers.dev/hls/83
+#EXTINF:-1 tvg-id="130" tvg-name="无线新闻CDN2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" ,J2
+https://tv23.7766.workers.dev/hls/82
+#EXTINF:-1 tvg-id="130" tvg-name="无线新闻CDN3" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" ,无线财经
+https://tv23.7766.workers.dev/hls/85
+#EXTINF:-1 tvg-id="7122" tvg-name="有线财经" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png",VIU tv
+https://tv23.7766.workers.dev/hls/99
