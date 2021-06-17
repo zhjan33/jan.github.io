@@ -1,7 +1,7 @@
-翡翠台,https://tv23.7766.workers.dev/hls/81
-J2,https://tv23.7766.workers.dev/hls/82
-无线新闻,https://tv23.7766.workers.dev/hls/83
-明珠,https://tv23.7766.workers.dev/hls/84
-无线财经,https://tv23.7766.workers.dev/hls/85
-Viu TV,https://tv23.7766.workers.dev/hls/99
-开电视,https://tv23.7766.workers.dev/hls/77
+翡翠台,https://tv23.7766.work
+J2,https://tv23.7766.wo
+无线新闻,https://tv23.7766.wo
+明珠,https://tv23.7766.wor
+无线财经,https://tv23.7766.wor
+Viu TV,https://tv23.7766.wor
+开电视,https://tv23.7766.wor
