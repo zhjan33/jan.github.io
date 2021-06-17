@@ -1,13 +1,13 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="126" tvg-logo="http://tv.sason.xyz/logo/tvbfc.png",翡翠台
-https://tv23.7766.workers.dev/hls/81
+https://tv23.7766.work
 #EXTINF:-1 tvg-id="130" tvg-name="无线新闻CDN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" ,无线新闻
-https://tv23.7766.workers.dev/hls/83
+https://tv23.7766.work
 #EXTINF:-1 tvg-id="130" tvg-name="无线新闻CDN2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" ,J2
-https://tv23.7766.workers.dev/hls/82
+https://tv23.7766.wor
 #EXTINF:-1 tvg-id="130" tvg-name="无线新闻CDN3" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" ,无线财经
-https://tv23.7766.workers.dev/hls/85
+https://tv23.7766.work5
 #EXTINF:-1 tvg-id="7122" tvg-name="有线财经" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png",VIU tv
-https://tv23.7766.workers.dev/hls/99
+https://tv23.7766.work
 #EXTINF:-1 tvg-id="7122" tvg-name="有线财经" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png",开电视
-https://tv23.7766.workers.dev/hls/77
+https://tv23.7766.work
