@@ -279,7 +279,7 @@ now新闻,http://61.222.202.191/tbs.php?id=16
 now财经http://61.222.202.191/tbs.php?id=17
 
 J2台,http://50.7.218.42:8278/j2_twn/playlist.m3u8?tid=ME1E2231530922315309&ct=19030&tsum=75566c3660711276e2c5e760db4ff840
-无线新闻,http://206.119.173.184/tv/js.php?id=12#mitv://ns2.hellotvvod.com:9906/977fac4b93af4ee0a190f38217d79e51
+无线新闻,https://bcovlive-a.akamaihd.net/38974baa695d47bbb231665ca52b8b3c/us-west-2/5324042807001/95ea73e414b14b7ea6406050a5293f17/playlist_ssaiM.m3u8
 明珠台,http://185.207.176.189:8080/channels/tv-84/playlist.m3u8
 无线财经,http://185.207.176.189:8080/channels/tv-85/playlist.m3u8
 VIUTV,http://185.207.176.189:8080/channels/tv-99/playlist.m3u8
