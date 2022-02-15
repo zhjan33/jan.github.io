@@ -631,16 +631,6 @@ http://117.148.179.174/PLTV/88888888/224/3221231592/index.m3u8
 http://117.148.179.144/PLTV/88888888/224/3221231492/index.m3u8
 #EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视",CGTN法语
 http://117.148.179.156/PLTV/88888888/224/3221231550/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",CETV1
-http://117.148.179.156/PLTV/88888888/224/3221231714/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",CETV1
-http://117.148.179.149/PLTV/88888888/224/3221231552/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",CETV2
-http://117.148.179.162/PLTV/88888888/224/3221231607/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",CETV3
-http://117.148.179.136/PLTV/88888888/224/3221231543/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",CETV4
-http://112.15.230.48/PLTV/88888888/224/3221230334/index.m3u8
 #EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="地方",CHC动作电影
 http://117.148.179.138/PLTV/88888888/224/3221231580/index.m3u8
 #EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="地方",CHC家庭影院
