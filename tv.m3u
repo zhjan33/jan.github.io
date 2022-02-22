@@ -1,4 +1,50 @@
 #EXTM3U
+#EXTM3U name="live"
+#EXTINF:-1 group-title="CCTV",CCTV-4K
+http://iptv.tvfix.org/hls/cctv4k.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV-1高清
+http://iptv.tvfix.org/hls/cctv1hd.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV-1HK版高清
+http://iptv.tvfix.org/hls/cctv1hdhk.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV-2高清
+http://iptv.tvfix.org/hls/cctv2hd.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV-3高清
+http://iptv.tvfix.org/hls/cctv3hd.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV-4高清
+http://iptv.tvfix.org/hls/cctv4hd.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV-5高清
+http://iptv.tvfix.org/hls/cctv5hd.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV-5+高清
+http://iptv.tvfix.org/hls/cctv5phd.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV-6高清
+http://iptv.tvfix.org/hls/cctv6hd.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV-7高清
+http://iptv.tvfix.org/hls/cctv7hd.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV-8高清
+http://iptv.tvfix.org/hls/cctv8hd.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV-9高清
+http://iptv.tvfix.org/hls/cctv9hd.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV-10高清
+http://iptv.tvfix.org/hls/cctv10hd.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV-11高清
+http://iptv.tvfix.org/hls/cctv11hd.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV-12高清
+http://iptv.tvfix.org/hls/cctv12hd.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV-13高清
+http://iptv.tvfix.org/hls/cctv13hd.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV-14高清
+http://iptv.tvfix.org/hls/cctv14hd.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV-15高清
+http://iptv.tvfix.org/hls/cctv15hd.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV-16高清
+http://iptv.tvfix.org/hls/cctv16hd.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV-17高清
+http://iptv.tvfix.org/hls/cctv17hd.m3u8
+#EXTINF:-1 group-title="CGTN",CGTN高清
+http://iptv.tvfix.org/hls/cgtnhd.m3u8
+#EXTINF:-1 group-title="CGTN",CGTN纪录高清
+http://iptv.tvfix.org/hls/cgtndochd.m3u8
+
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台1",翡翠台
 http://iptv.tvfix.org/hls/jade.m3u8
 #EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" group-title="港澳台1",明珠台
